@@ -1,0 +1,2967 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/assets/fonts/themify-icons/index.html
+Subject: Themify Icon Font
+Date: Tue, 20 Apr 2021 14:36:55 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--q3uSUvSE7kUgMkdHtEZ2RtEbgh5lx1vUcKyMQGjZKf----"
+
+
+------MultipartBoundary--q3uSUvSE7kUgMkdHtEZ2RtEbgh5lx1vUcKyMQGjZKf----
+Content-Type: text/html
+Content-ID: <frame-31F79465C4DF04B487D62FE94A88DC21@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/assets/fonts/themify-icons/index.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+=09
+	<title>Themify Icon Font</title>
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+	<link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/assets/fonts/themif=
+y-icons/demo-files/demo.css">
+	<link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/assets/fonts/themif=
+y-icons/themify-icons.css">
+	<!--[if lt IE 8]><!-->
+	<link rel=3D"stylesheet" href=3D"http://127.0.0.1:5500/assets/fonts/themif=
+y-icons/ie7/ie7.css">
+	<!--<![endif]-->
+</head>
+<body>
+	<h1>Themify Icons</h1>
+
+	<div class=3D"icon-section">
+
+		<div class=3D"icon-section">
+			<h3>Arrows &amp; Direction Icons </h3>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-up"></span><span class=3D"icon-name"> ti-arrow-=
+up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-right"></span><span class=3D"icon-name"> ti-arr=
+ow-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-left"></span><span class=3D"icon-name"> ti-arro=
+w-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-down"></span><span class=3D"icon-name"> ti-arro=
+w-down</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrows-vertical"></span><span class=3D"icon-name"> ti=
+-arrows-vertical</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrows-horizontal"></span><span class=3D"icon-name"> =
+ti-arrows-horizontal</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-up"></span><span class=3D"icon-name"> ti-angle-=
+up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-right"></span><span class=3D"icon-name"> ti-ang=
+le-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-left"></span><span class=3D"icon-name"> ti-angl=
+e-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-down"></span><span class=3D"icon-name"> ti-angl=
+e-down</span>
+			</div>=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-double-up"></span><span class=3D"icon-name"> ti=
+-angle-double-up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-double-right"></span><span class=3D"icon-name">=
+ ti-angle-double-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-double-left"></span><span class=3D"icon-name"> =
+ti-angle-double-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-angle-double-down"></span><span class=3D"icon-name"> =
+ti-angle-double-down</span>
+			</div>				=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-move"></span><span class=3D"icon-name"> ti-move</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-fullscreen"></span><span class=3D"icon-name"> ti-full=
+screen</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-top-right"></span><span class=3D"icon-name"> ti=
+-arrow-top-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-top-left"></span><span class=3D"icon-name"> ti-=
+arrow-top-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-circle-up"></span><span class=3D"icon-name"> ti=
+-arrow-circle-up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-circle-right"></span><span class=3D"icon-name">=
+ ti-arrow-circle-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-circle-left"></span><span class=3D"icon-name"> =
+ti-arrow-circle-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrow-circle-down"></span><span class=3D"icon-name"> =
+ti-arrow-circle-down</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-arrows-corner"></span><span class=3D"icon-name"> ti-a=
+rrows-corner</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-split-v"></span><span class=3D"icon-name"> ti-split-v=
+</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-split-v-alt"></span><span class=3D"icon-name"> ti-spl=
+it-v-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-split-h"></span><span class=3D"icon-name"> ti-split-h=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hand-point-up"></span><span class=3D"icon-name"> ti-h=
+and-point-up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hand-point-right"></span><span class=3D"icon-name"> t=
+i-hand-point-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hand-point-left"></span><span class=3D"icon-name"> ti=
+-hand-point-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hand-point-down"></span><span class=3D"icon-name"> ti=
+-hand-point-down</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-back-right"></span><span class=3D"icon-name"> ti-back=
+-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-back-left"></span><span class=3D"icon-name"> ti-back-=
+left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-exchange-vertical"></span><span class=3D"icon-name"> =
+ti-exchange-vertical</span>
+			</div>
+
+		</div> <!-- Arrows Icons -->
+
+
+
+		<h3>Web App Icons</h3>
+	=09
+		<div class=3D"icon-section">
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-wand"></span><span class=3D"icon-name"> ti-wand</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-save"></span><span class=3D"icon-name"> ti-save</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-save-alt"></span><span class=3D"icon-name"> ti-save-a=
+lt</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-direction"></span><span class=3D"icon-name"> ti-direc=
+tion</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-direction-alt"></span><span class=3D"icon-name"> ti-d=
+irection-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-user"></span><span class=3D"icon-name"> ti-user</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-link"></span><span class=3D"icon-name"> ti-link</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-unlink"></span><span class=3D"icon-name"> ti-unlink</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-trash"></span><span class=3D"icon-name"> ti-trash</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-target"></span><span class=3D"icon-name"> ti-target</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-tag"></span><span class=3D"icon-name"> ti-tag</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-desktop"></span><span class=3D"icon-name"> ti-desktop=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-tablet"></span><span class=3D"icon-name"> ti-tablet</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-mobile"></span><span class=3D"icon-name"> ti-mobile</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-email"></span><span class=3D"icon-name"> ti-email</sp=
+an>
+			</div>=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-star"></span><span class=3D"icon-name"> ti-star</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-spray"></span><span class=3D"icon-name"> ti-spray</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-signal"></span><span class=3D"icon-name"> ti-signal</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shopping-cart"></span><span class=3D"icon-name"> ti-s=
+hopping-cart</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shopping-cart-full"></span><span class=3D"icon-name">=
+ ti-shopping-cart-full</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-settings"></span><span class=3D"icon-name"> ti-settin=
+gs</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-search"></span><span class=3D"icon-name"> ti-search</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-zoom-in"></span><span class=3D"icon-name"> ti-zoom-in=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-zoom-out"></span><span class=3D"icon-name"> ti-zoom-o=
+ut</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-cut"></span><span class=3D"icon-name"> ti-cut</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-ruler"></span><span class=3D"icon-name"> ti-ruler</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-ruler-alt-2"></span><span class=3D"icon-name"> ti-rul=
+er-alt-2</span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-ruler-pencil"></span><span class=3D"icon-name"> ti-ru=
+ler-pencil</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-ruler-alt"></span><span class=3D"icon-name"> ti-ruler=
+-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bookmark"></span><span class=3D"icon-name"> ti-bookma=
+rk</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bookmark-alt"></span><span class=3D"icon-name"> ti-bo=
+okmark-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-reload"></span><span class=3D"icon-name"> ti-reload</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-plus"></span><span class=3D"icon-name"> ti-plus</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-minus"></span><span class=3D"icon-name"> ti-minus</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-close"></span><span class=3D"icon-name"> ti-close</sp=
+an>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-pin"></span><span class=3D"icon-name"> ti-pin</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-pencil"></span><span class=3D"icon-name"> ti-pencil</=
+span>
+			</div>
+				=09
+		  	<div class=3D"icon-container">
+				<span class=3D"ti-pencil-alt"></span><span class=3D"icon-name"> ti-penc=
+il-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-paint-roller"></span><span class=3D"icon-name"> ti-pa=
+int-roller</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-paint-bucket"></span><span class=3D"icon-name"> ti-pa=
+int-bucket</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-na"></span><span class=3D"icon-name"> ti-na</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-medall"></span><span class=3D"icon-name"> ti-medall</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-medall-alt"></span><span class=3D"icon-name"> ti-meda=
+ll-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-marker"></span><span class=3D"icon-name"> ti-marker</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-marker-alt"></span><span class=3D"icon-name"> ti-mark=
+er-alt</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-lock"></span><span class=3D"icon-name"> ti-lock</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-unlock"></span><span class=3D"icon-name"> ti-unlock</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-location-arrow"></span><span class=3D"icon-name"> ti-=
+location-arrow</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout"></span><span class=3D"icon-name"> ti-layout</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layers"></span><span class=3D"icon-name"> ti-layers</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layers-alt"></span><span class=3D"icon-name"> ti-laye=
+rs-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-key"></span><span class=3D"icon-name"> ti-key</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-image"></span><span class=3D"icon-name"> ti-image</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-heart"></span><span class=3D"icon-name"> ti-heart</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-heart-broken"></span><span class=3D"icon-name"> ti-he=
+art-broken</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hand-stop"></span><span class=3D"icon-name"> ti-hand-=
+stop</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hand-open"></span><span class=3D"icon-name"> ti-hand-=
+open</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hand-drag"></span><span class=3D"icon-name"> ti-hand-=
+drag</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-flag"></span><span class=3D"icon-name"> ti-flag</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-flag-alt"></span><span class=3D"icon-name"> ti-flag-a=
+lt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-flag-alt-2"></span><span class=3D"icon-name"> ti-flag=
+-alt-2</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-eye"></span><span class=3D"icon-name"> ti-eye</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-import"></span><span class=3D"icon-name"> ti-import</=
+span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-export"></span><span class=3D"icon-name"> ti-export</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-cup"></span><span class=3D"icon-name"> ti-cup</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-crown"></span><span class=3D"icon-name"> ti-crown</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-comments"></span><span class=3D"icon-name"> ti-commen=
+ts</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-comment"></span><span class=3D"icon-name"> ti-comment=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-comment-alt"></span><span class=3D"icon-name"> ti-com=
+ment-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-thought"></span><span class=3D"icon-name"> ti-thought=
+</span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-clip"></span><span class=3D"icon-name"> ti-clip</span=
+>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-check"></span><span class=3D"icon-name"> ti-check</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-check-box"></span><span class=3D"icon-name"> ti-check=
+-box</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-camera"></span><span class=3D"icon-name"> ti-camera</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-announcement"></span><span class=3D"icon-name"> ti-an=
+nouncement</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-brush"></span><span class=3D"icon-name"> ti-brush</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-brush-alt"></span><span class=3D"icon-name"> ti-brush=
+-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-palette"></span><span class=3D"icon-name"> ti-palette=
+</span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-briefcase"></span><span class=3D"icon-name"> ti-brief=
+case</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bolt"></span><span class=3D"icon-name"> ti-bolt</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bolt-alt"></span><span class=3D"icon-name"> ti-bolt-a=
+lt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-blackboard"></span><span class=3D"icon-name"> ti-blac=
+kboard</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bag"></span><span class=3D"icon-name"> ti-bag</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-world"></span><span class=3D"icon-name"> ti-world</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-wheelchair"></span><span class=3D"icon-name"> ti-whee=
+lchair</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-car"></span><span class=3D"icon-name"> ti-car</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-truck"></span><span class=3D"icon-name"> ti-truck</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-timer"></span><span class=3D"icon-name"> ti-timer</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-ticket"></span><span class=3D"icon-name"> ti-ticket</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-thumb-up"></span><span class=3D"icon-name"> ti-thumb-=
+up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-thumb-down"></span><span class=3D"icon-name"> ti-thum=
+b-down</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-stats-up"></span><span class=3D"icon-name"> ti-stats-=
+up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-stats-down"></span><span class=3D"icon-name"> ti-stat=
+s-down</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shine"></span><span class=3D"icon-name"> ti-shine</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shift-right"></span><span class=3D"icon-name"> ti-shi=
+ft-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shift-left"></span><span class=3D"icon-name"> ti-shif=
+t-left</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-shift-right-alt"></span><span class=3D"icon-name"> ti=
+-shift-right-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shift-left-alt"></span><span class=3D"icon-name"> ti-=
+shift-left-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shield"></span><span class=3D"icon-name"> ti-shield</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-notepad"></span><span class=3D"icon-name"> ti-notepad=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-server"></span><span class=3D"icon-name"> ti-server</=
+span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-pulse"></span><span class=3D"icon-name"> ti-pulse</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-printer"></span><span class=3D"icon-name"> ti-printer=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-power-off"></span><span class=3D"icon-name"> ti-power=
+-off</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-plug"></span><span class=3D"icon-name"> ti-plug</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-pie-chart"></span><span class=3D"icon-name"> ti-pie-c=
+hart</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-panel"></span><span class=3D"icon-name"> ti-panel</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-package"></span><span class=3D"icon-name"> ti-package=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-music"></span><span class=3D"icon-name"> ti-music</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-music-alt"></span><span class=3D"icon-name"> ti-music=
+-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-mouse"></span><span class=3D"icon-name"> ti-mouse</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-mouse-alt"></span><span class=3D"icon-name"> ti-mouse=
+-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-money"></span><span class=3D"icon-name"> ti-money</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-microphone"></span><span class=3D"icon-name"> ti-micr=
+ophone</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-menu"></span><span class=3D"icon-name"> ti-menu</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-menu-alt"></span><span class=3D"icon-name"> ti-menu-a=
+lt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-map"></span><span class=3D"icon-name"> ti-map</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-map-alt"></span><span class=3D"icon-name"> ti-map-alt=
+</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-location-pin"></span><span class=3D"icon-name"> ti-lo=
+cation-pin</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-light-bulb"></span><span class=3D"icon-name"> ti-ligh=
+t-bulb</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-info"></span><span class=3D"icon-name"> ti-info</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-infinite"></span><span class=3D"icon-name"> ti-infini=
+te</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-id-badge"></span><span class=3D"icon-name"> ti-id-bad=
+ge</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-hummer"></span><span class=3D"icon-name"> ti-hummer</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-home"></span><span class=3D"icon-name"> ti-home</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-help"></span><span class=3D"icon-name"> ti-help</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-headphone"></span><span class=3D"icon-name"> ti-headp=
+hone</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-harddrives"></span><span class=3D"icon-name"> ti-hard=
+drives</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-harddrive"></span><span class=3D"icon-name"> ti-hardd=
+rive</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-gift"></span><span class=3D"icon-name"> ti-gift</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-game"></span><span class=3D"icon-name"> ti-game</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-filter"></span><span class=3D"icon-name"> ti-filter</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-files"></span><span class=3D"icon-name"> ti-files</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-file"></span><span class=3D"icon-name"> ti-file</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-zip"></span><span class=3D"icon-name"> ti-zip</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-folder"></span><span class=3D"icon-name"> ti-folder</=
+span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-envelope"></span><span class=3D"icon-name"> ti-envelo=
+pe</span>
+			</div>
+
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-dashboard"></span><span class=3D"icon-name"> ti-dashb=
+oard</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-cloud"></span><span class=3D"icon-name"> ti-cloud</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-cloud-up"></span><span class=3D"icon-name"> ti-cloud-=
+up</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-cloud-down"></span><span class=3D"icon-name"> ti-clou=
+d-down</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-clipboard"></span><span class=3D"icon-name"> ti-clipb=
+oard</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-calendar"></span><span class=3D"icon-name"> ti-calend=
+ar</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-book"></span><span class=3D"icon-name"> ti-book</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bell"></span><span class=3D"icon-name"> ti-bell</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-basketball"></span><span class=3D"icon-name"> ti-bask=
+etball</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bar-chart"></span><span class=3D"icon-name"> ti-bar-c=
+hart</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-bar-chart-alt"></span><span class=3D"icon-name"> ti-b=
+ar-chart-alt</span>
+			</div>
+
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-archive"></span><span class=3D"icon-name"> ti-archive=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-anchor"></span><span class=3D"icon-name"> ti-anchor</=
+span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-alert"></span><span class=3D"icon-name"> ti-alert</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-alarm-clock"></span><span class=3D"icon-name"> ti-ala=
+rm-clock</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-agenda"></span><span class=3D"icon-name"> ti-agenda</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-write"></span><span class=3D"icon-name"> ti-write</sp=
+an>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-wallet"></span><span class=3D"icon-name"> ti-wallet</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-video-clapper"></span><span class=3D"icon-name"> ti-v=
+ideo-clapper</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-video-camera"></span><span class=3D"icon-name"> ti-vi=
+deo-camera</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-vector"></span><span class=3D"icon-name"> ti-vector</=
+span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-support"></span><span class=3D"icon-name"> ti-support=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-stamp"></span><span class=3D"icon-name"> ti-stamp</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-slice"></span><span class=3D"icon-name"> ti-slice</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-shortcode"></span><span class=3D"icon-name"> ti-short=
+code</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-receipt"></span><span class=3D"icon-name"> ti-receipt=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-pin2"></span><span class=3D"icon-name"> ti-pin2</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-pin-alt"></span><span class=3D"icon-name"> ti-pin-alt=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-pencil-alt2"></span><span class=3D"icon-name"> ti-pen=
+cil-alt2</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-eraser"></span><span class=3D"icon-name"> ti-eraser</=
+span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-more"></span><span class=3D"icon-name"> ti-more</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-more-alt"></span><span class=3D"icon-name"> ti-more-a=
+lt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-microphone-alt"></span><span class=3D"icon-name"> ti-=
+microphone-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-magnet"></span><span class=3D"icon-name"> ti-magnet</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-line-double"></span><span class=3D"icon-name"> ti-lin=
+e-double</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-line-dotted"></span><span class=3D"icon-name"> ti-lin=
+e-dotted</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-line-dashed"></span><span class=3D"icon-name"> ti-lin=
+e-dashed</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-ink-pen"></span><span class=3D"icon-name"> ti-ink-pen=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-info-alt"></span><span class=3D"icon-name"> ti-info-a=
+lt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-help-alt"></span><span class=3D"icon-name"> ti-help-a=
+lt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-headphone-alt"></span><span class=3D"icon-name"> ti-h=
+eadphone-alt</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-gallery"></span><span class=3D"icon-name"> ti-gallery=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-face-smile"></span><span class=3D"icon-name"> ti-face=
+-smile</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-face-sad"></span><span class=3D"icon-name"> ti-face-s=
+ad</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-credit-card"></span><span class=3D"icon-name"> ti-cre=
+dit-card</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-comments-smiley"></span><span class=3D"icon-name"> ti=
+-comments-smiley</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-time"></span><span class=3D"icon-name"> ti-time</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-share"></span><span class=3D"icon-name"> ti-share</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-share-alt"></span><span class=3D"icon-name"> ti-share=
+-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-rocket"></span><span class=3D"icon-name"> ti-rocket</=
+span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-new-window"></span><span class=3D"icon-name"> ti-new-=
+window</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-rss"></span><span class=3D"icon-name"> ti-rss</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-rss-alt"></span><span class=3D"icon-name"> ti-rss-alt=
+</span>
+			</div>
+		=09
+		</div><!-- Web App Icons -->
+
+
+		<div class=3D"icon-section">
+			<h3>Control Icons</h3>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-stop"></span><span class=3D"icon-name"> ti-co=
+ntrol-stop</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-shuffle"></span><span class=3D"icon-name"> ti=
+-control-shuffle</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-play"></span><span class=3D"icon-name"> ti-co=
+ntrol-play</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-pause"></span><span class=3D"icon-name"> ti-c=
+ontrol-pause</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-forward"></span><span class=3D"icon-name"> ti=
+-control-forward</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-backward"></span><span class=3D"icon-name"> t=
+i-control-backward</span>
+			</div>=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-volume"></span><span class=3D"icon-name"> ti-volume</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-skip-forward"></span><span class=3D"icon-name=
+"> ti-control-skip-forward</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-skip-backward"></span><span class=3D"icon-nam=
+e"> ti-control-skip-backward</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-record"></span><span class=3D"icon-name"> ti-=
+control-record</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-control-eject"></span><span class=3D"icon-name"> ti-c=
+ontrol-eject</span>
+			</div>		=09
+		</div> <!-- Control Icons -->
+
+
+		<div class=3D"icon-section">
+			<h3>Text Editor</h3>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-paragraph"></span><span class=3D"icon-name"> ti-parag=
+raph</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-uppercase"></span><span class=3D"icon-name"> ti-upper=
+case</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-underline"></span><span class=3D"icon-name"> ti-under=
+line</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-text"></span><span class=3D"icon-name"> ti-text</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-Italic"></span><span class=3D"icon-name"> ti-Italic</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-smallcap"></span><span class=3D"icon-name"> ti-smallc=
+ap</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-list"></span><span class=3D"icon-name"> ti-list</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-list-ol"></span><span class=3D"icon-name"> ti-list-ol=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-align-right"></span><span class=3D"icon-name"> ti-ali=
+gn-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-align-left"></span><span class=3D"icon-name"> ti-alig=
+n-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-align-justify"></span><span class=3D"icon-name"> ti-a=
+lign-justify</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-align-center"></span><span class=3D"icon-name"> ti-al=
+ign-center</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-quote-right"></span><span class=3D"icon-name"> ti-quo=
+te-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-quote-left"></span><span class=3D"icon-name"> ti-quot=
+e-left</span>
+			</div>
+
+		</div> <!-- Text Editor -->
+
+
+
+		<div class=3D"icon-section">
+			<h3>Layout Icons</h3>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-width-full"></span><span class=3D"icon-name"> =
+ti-layout-width-full</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-width-default"></span><span class=3D"icon-name=
+"> ti-layout-width-default</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-width-default-alt"></span><span class=3D"icon-=
+name"> ti-layout-width-default-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-tab"></span><span class=3D"icon-name"> ti-layo=
+ut-tab</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-tab-window"></span><span class=3D"icon-name"> =
+ti-layout-tab-window</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-tab-v"></span><span class=3D"icon-name"> ti-la=
+yout-tab-v</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-tab-min"></span><span class=3D"icon-name"> ti-=
+layout-tab-min</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-slider"></span><span class=3D"icon-name"> ti-l=
+ayout-slider</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-slider-alt"></span><span class=3D"icon-name"> =
+ti-layout-slider-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-sidebar-right"></span><span class=3D"icon-name=
+"> ti-layout-sidebar-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-sidebar-none"></span><span class=3D"icon-name"=
+> ti-layout-sidebar-none</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-sidebar-left"></span><span class=3D"icon-name"=
+> ti-layout-sidebar-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-placeholder"></span><span class=3D"icon-name">=
+ ti-layout-placeholder</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-menu"></span><span class=3D"icon-name"> ti-lay=
+out-menu</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-menu-v"></span><span class=3D"icon-name"> ti-l=
+ayout-menu-v</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-menu-separated"></span><span class=3D"icon-nam=
+e"> ti-layout-menu-separated</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-menu-full"></span><span class=3D"icon-name"> t=
+i-layout-menu-full</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-right"></span><span class=3D"icon-name">=
+ ti-layout-media-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-right-alt"></span><span class=3D"icon-na=
+me"> ti-layout-media-right-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-overlay"></span><span class=3D"icon-name=
+"> ti-layout-media-overlay</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-overlay-alt"></span><span class=3D"icon-=
+name"> ti-layout-media-overlay-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-overlay-alt-2"></span><span class=3D"ico=
+n-name"> ti-layout-media-overlay-alt-2</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-left"></span><span class=3D"icon-name"> =
+ti-layout-media-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-left-alt"></span><span class=3D"icon-nam=
+e"> ti-layout-media-left-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-center"></span><span class=3D"icon-name"=
+> ti-layout-media-center</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-media-center-alt"></span><span class=3D"icon-n=
+ame"> ti-layout-media-center-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-list-thumb"></span><span class=3D"icon-name"> =
+ti-layout-list-thumb</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-list-thumb-alt"></span><span class=3D"icon-nam=
+e"> ti-layout-list-thumb-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-list-post"></span><span class=3D"icon-name"> t=
+i-layout-list-post</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-list-large-image"></span><span class=3D"icon-n=
+ame"> ti-layout-list-large-image</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-line-solid"></span><span class=3D"icon-name"> =
+ti-layout-line-solid</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-grid4"></span><span class=3D"icon-name"> ti-la=
+yout-grid4</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-grid3"></span><span class=3D"icon-name"> ti-la=
+yout-grid3</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-grid2"></span><span class=3D"icon-name"> ti-la=
+yout-grid2</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-grid2-thumb"></span><span class=3D"icon-name">=
+ ti-layout-grid2-thumb</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-cta-right"></span><span class=3D"icon-name"> t=
+i-layout-cta-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-cta-left"></span><span class=3D"icon-name"> ti=
+-layout-cta-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-cta-center"></span><span class=3D"icon-name"> =
+ti-layout-cta-center</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-cta-btn-right"></span><span class=3D"icon-name=
+"> ti-layout-cta-btn-right</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-cta-btn-left"></span><span class=3D"icon-name"=
+> ti-layout-cta-btn-left</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-column4"></span><span class=3D"icon-name"> ti-=
+layout-column4</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-column3"></span><span class=3D"icon-name"> ti-=
+layout-column3</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-column2"></span><span class=3D"icon-name"> ti-=
+layout-column2</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-accordion-separated"></span><span class=3D"ico=
+n-name"> ti-layout-accordion-separated</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-accordion-merged"></span><span class=3D"icon-n=
+ame"> ti-layout-accordion-merged</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-accordion-list"></span><span class=3D"icon-nam=
+e"> ti-layout-accordion-list</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-widgetized"></span><span class=3D"icon-name"> ti-widg=
+etized</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-widget"></span><span class=3D"icon-name"> ti-widget</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-widget-alt"></span><span class=3D"icon-name"> ti-widg=
+et-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-view-list"></span><span class=3D"icon-name"> ti-view-=
+list</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-view-list-alt"></span><span class=3D"icon-name"> ti-v=
+iew-list-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-view-grid"></span><span class=3D"icon-name"> ti-view-=
+grid</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-upload"></span><span class=3D"icon-name"> ti-upload</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-download"></span><span class=3D"icon-name"> ti-downlo=
+ad</span>
+			</div>=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-loop"></span><span class=3D"icon-name"> ti-loop</span=
+>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-sidebar-2"></span><span class=3D"icon-name"> t=
+i-layout-sidebar-2</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-grid4-alt"></span><span class=3D"icon-name"> t=
+i-layout-grid4-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-grid3-alt"></span><span class=3D"icon-name"> t=
+i-layout-grid3-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-grid2-alt"></span><span class=3D"icon-name"> t=
+i-layout-grid2-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-column4-alt"></span><span class=3D"icon-name">=
+ ti-layout-column4-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-column3-alt"></span><span class=3D"icon-name">=
+ ti-layout-column3-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-layout-column2-alt"></span><span class=3D"icon-name">=
+ ti-layout-column2-alt</span>
+			</div>	=09
+
+
+		</div> <!-- Layout Icons -->
+
+
+		<div class=3D"icon-section">
+			<h3>Brand Icons</h3>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-flickr"></span><span class=3D"icon-name"> ti-flickr</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-flickr-alt"></span><span class=3D"icon-name"> ti-flic=
+kr-alt</span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-instagram"></span><span class=3D"icon-name"> ti-insta=
+gram</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-google"></span><span class=3D"icon-name"> ti-google</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-github"></span><span class=3D"icon-name"> ti-github</=
+span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-facebook"></span><span class=3D"icon-name"> ti-facebo=
+ok</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-dropbox"></span><span class=3D"icon-name"> ti-dropbox=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-dropbox-alt"></span><span class=3D"icon-name"> ti-dro=
+pbox-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-dribbble"></span><span class=3D"icon-name"> ti-dribbb=
+le</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-apple"></span><span class=3D"icon-name"> ti-apple</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-android"></span><span class=3D"icon-name"> ti-android=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-yahoo"></span><span class=3D"icon-name"> ti-yahoo</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-trello"></span><span class=3D"icon-name"> ti-trello</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-stack-overflow"></span><span class=3D"icon-name"> ti-=
+stack-overflow</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-soundcloud"></span><span class=3D"icon-name"> ti-soun=
+dcloud</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-sharethis"></span><span class=3D"icon-name"> ti-share=
+this</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-sharethis-alt"></span><span class=3D"icon-name"> ti-s=
+harethis-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-reddit"></span><span class=3D"icon-name"> ti-reddit</=
+span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-microsoft"></span><span class=3D"icon-name"> ti-micro=
+soft</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-microsoft-alt"></span><span class=3D"icon-name"> ti-m=
+icrosoft-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-linux"></span><span class=3D"icon-name"> ti-linux</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-jsfiddle"></span><span class=3D"icon-name"> ti-jsfidd=
+le</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-joomla"></span><span class=3D"icon-name"> ti-joomla</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-html5"></span><span class=3D"icon-name"> ti-html5</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-css3"></span><span class=3D"icon-name"> ti-css3</span=
+>
+			</div>=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-drupal"></span><span class=3D"icon-name"> ti-drupal</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-wordpress"></span><span class=3D"icon-name"> ti-wordp=
+ress</span>
+			</div>	=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-tumblr"></span><span class=3D"icon-name"> ti-tumblr</=
+span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-tumblr-alt"></span><span class=3D"icon-name"> ti-tumb=
+lr-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-skype"></span><span class=3D"icon-name"> ti-skype</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-youtube"></span><span class=3D"icon-name"> ti-youtube=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-vimeo"></span><span class=3D"icon-name"> ti-vimeo</sp=
+an>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-vimeo-alt"></span><span class=3D"icon-name"> ti-vimeo=
+-alt</span>
+			</div>		=09
+			<div class=3D"icon-container">
+				<span class=3D"ti-twitter"></span><span class=3D"icon-name"> ti-twitter=
+</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-twitter-alt"></span><span class=3D"icon-name"> ti-twi=
+tter-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-linkedin"></span><span class=3D"icon-name"> ti-linked=
+in</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-pinterest"></span><span class=3D"icon-name"> ti-pinte=
+rest</span>
+			</div>
+
+			<div class=3D"icon-container">
+				<span class=3D"ti-pinterest-alt"></span><span class=3D"icon-name"> ti-p=
+interest-alt</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-themify-logo"></span><span class=3D"icon-name"> ti-th=
+emify-logo</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-themify-favicon"></span><span class=3D"icon-name"> ti=
+-themify-favicon</span>
+			</div>
+			<div class=3D"icon-container">
+				<span class=3D"ti-themify-favicon-alt"></span><span class=3D"icon-name"=
+> ti-themify-favicon-alt</span>
+			</div>
+
+		</div> <!-- brand Icons -->
+
+	</div>
+
+<!-- Code injected by live-server -->
+
+<div id=3D"overlay_padjipbilemhhpppjmkabednoeiaaaac" style=3D"position: fix=
+ed; width: 100%; height: 100%; top: 0; display: none; left: 0; right: 0; bo=
+ttom: 0; background-color: rgba(0,0,0,0.5); z-index: 9999999; cursor: point=
+er; "></div></body></html>
+------MultipartBoundary--q3uSUvSE7kUgMkdHtEZ2RtEbgh5lx1vUcKyMQGjZKf----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/assets/fonts/themify-icons/demo-files/demo.css
+
+@charset "utf-8";
+
+body { font: 1em / 1.5em Arial, Helvetica, sans-serif; max-width: 90%; marg=
+in: 30px auto 0px; }
+
+h1, h3 { font-weight: normal; }
+
+h3 { text-transform: uppercase; letter-spacing: 1px; }
+
+.icon-section { margin: 0px 0px 3em; clear: both; overflow: hidden; }
+
+.icon-container { width: 240px; padding: 0.7em 0px; float: left; position: =
+relative; text-align: left; }
+
+.icon-container [class^=3D"ti-"], .icon-container [class*=3D" ti-"] { color=
+: rgb(0, 0, 0); position: absolute; margin-top: 3px; transition: all 0.3s e=
+ase 0s; }
+
+.icon-container:hover [class^=3D"ti-"], .icon-container:hover [class*=3D" t=
+i-"] { font-size: 2.2em; margin-top: -5px; }
+
+.icon-container:hover .icon-name { color: rgb(0, 0, 0); }
+
+.icon-name { color: rgb(170, 170, 170); margin-left: 35px; font-size: 0.8em=
+; transition: all 0.3s ease 0s; }
+
+.icon-container:hover .icon-name { margin-left: 45px; }
+------MultipartBoundary--q3uSUvSE7kUgMkdHtEZ2RtEbgh5lx1vUcKyMQGjZKf----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/assets/fonts/themify-icons/themify-icons.css
+
+@charset "utf-8";
+
+@font-face { font-family: themify; src: url("fonts/themify.eot?#iefix-fvban=
+e") format("embedded-opentype"), url("fonts/themify.woff?-fvbane") format("=
+woff"), url("fonts/themify.ttf?-fvbane") format("truetype"), url("fonts/the=
+mify.svg?-fvbane#themify") format("svg"); font-weight: normal; font-style: =
+normal; }
+
+[class^=3D"ti-"], [class*=3D" ti-"] { font-family: themify; speak: none; fo=
+nt-style: normal; font-weight: normal; font-variant: normal; text-transform=
+: none; line-height: 1; -webkit-font-smoothing: antialiased; }
+
+.ti-wand::before { content: "=EE=98=80"; }
+
+.ti-volume::before { content: "=EE=98=81"; }
+
+.ti-user::before { content: "=EE=98=82"; }
+
+.ti-unlock::before { content: "=EE=98=83"; }
+
+.ti-unlink::before { content: "=EE=98=84"; }
+
+.ti-trash::before { content: "=EE=98=85"; }
+
+.ti-thought::before { content: "=EE=98=86"; }
+
+.ti-target::before { content: "=EE=98=87"; }
+
+.ti-tag::before { content: "=EE=98=88"; }
+
+.ti-tablet::before { content: "=EE=98=89"; }
+
+.ti-star::before { content: "=EE=98=8A"; }
+
+.ti-spray::before { content: "=EE=98=8B"; }
+
+.ti-signal::before { content: "=EE=98=8C"; }
+
+.ti-shopping-cart::before { content: "=EE=98=8D"; }
+
+.ti-shopping-cart-full::before { content: "=EE=98=8E"; }
+
+.ti-settings::before { content: "=EE=98=8F"; }
+
+.ti-search::before { content: "=EE=98=90"; }
+
+.ti-zoom-in::before { content: "=EE=98=91"; }
+
+.ti-zoom-out::before { content: "=EE=98=92"; }
+
+.ti-cut::before { content: "=EE=98=93"; }
+
+.ti-ruler::before { content: "=EE=98=94"; }
+
+.ti-ruler-pencil::before { content: "=EE=98=95"; }
+
+.ti-ruler-alt::before { content: "=EE=98=96"; }
+
+.ti-bookmark::before { content: "=EE=98=97"; }
+
+.ti-bookmark-alt::before { content: "=EE=98=98"; }
+
+.ti-reload::before { content: "=EE=98=99"; }
+
+.ti-plus::before { content: "=EE=98=9A"; }
+
+.ti-pin::before { content: "=EE=98=9B"; }
+
+.ti-pencil::before { content: "=EE=98=9C"; }
+
+.ti-pencil-alt::before { content: "=EE=98=9D"; }
+
+.ti-paint-roller::before { content: "=EE=98=9E"; }
+
+.ti-paint-bucket::before { content: "=EE=98=9F"; }
+
+.ti-na::before { content: "=EE=98=A0"; }
+
+.ti-mobile::before { content: "=EE=98=A1"; }
+
+.ti-minus::before { content: "=EE=98=A2"; }
+
+.ti-medall::before { content: "=EE=98=A3"; }
+
+.ti-medall-alt::before { content: "=EE=98=A4"; }
+
+.ti-marker::before { content: "=EE=98=A5"; }
+
+.ti-marker-alt::before { content: "=EE=98=A6"; }
+
+.ti-arrow-up::before { content: "=EE=98=A7"; }
+
+.ti-arrow-right::before { content: "=EE=98=A8"; }
+
+.ti-arrow-left::before { content: "=EE=98=A9"; }
+
+.ti-arrow-down::before { content: "=EE=98=AA"; }
+
+.ti-lock::before { content: "=EE=98=AB"; }
+
+.ti-location-arrow::before { content: "=EE=98=AC"; }
+
+.ti-link::before { content: "=EE=98=AD"; }
+
+.ti-layout::before { content: "=EE=98=AE"; }
+
+.ti-layers::before { content: "=EE=98=AF"; }
+
+.ti-layers-alt::before { content: "=EE=98=B0"; }
+
+.ti-key::before { content: "=EE=98=B1"; }
+
+.ti-import::before { content: "=EE=98=B2"; }
+
+.ti-image::before { content: "=EE=98=B3"; }
+
+.ti-heart::before { content: "=EE=98=B4"; }
+
+.ti-heart-broken::before { content: "=EE=98=B5"; }
+
+.ti-hand-stop::before { content: "=EE=98=B6"; }
+
+.ti-hand-open::before { content: "=EE=98=B7"; }
+
+.ti-hand-drag::before { content: "=EE=98=B8"; }
+
+.ti-folder::before { content: "=EE=98=B9"; }
+
+.ti-flag::before { content: "=EE=98=BA"; }
+
+.ti-flag-alt::before { content: "=EE=98=BB"; }
+
+.ti-flag-alt-2::before { content: "=EE=98=BC"; }
+
+.ti-eye::before { content: "=EE=98=BD"; }
+
+.ti-export::before { content: "=EE=98=BE"; }
+
+.ti-exchange-vertical::before { content: "=EE=98=BF"; }
+
+.ti-desktop::before { content: "=EE=99=80"; }
+
+.ti-cup::before { content: "=EE=99=81"; }
+
+.ti-crown::before { content: "=EE=99=82"; }
+
+.ti-comments::before { content: "=EE=99=83"; }
+
+.ti-comment::before { content: "=EE=99=84"; }
+
+.ti-comment-alt::before { content: "=EE=99=85"; }
+
+.ti-close::before { content: "=EE=99=86"; }
+
+.ti-clip::before { content: "=EE=99=87"; }
+
+.ti-angle-up::before { content: "=EE=99=88"; }
+
+.ti-angle-right::before { content: "=EE=99=89"; }
+
+.ti-angle-left::before { content: "=EE=99=8A"; }
+
+.ti-angle-down::before { content: "=EE=99=8B"; }
+
+.ti-check::before { content: "=EE=99=8C"; }
+
+.ti-check-box::before { content: "=EE=99=8D"; }
+
+.ti-camera::before { content: "=EE=99=8E"; }
+
+.ti-announcement::before { content: "=EE=99=8F"; }
+
+.ti-brush::before { content: "=EE=99=90"; }
+
+.ti-briefcase::before { content: "=EE=99=91"; }
+
+.ti-bolt::before { content: "=EE=99=92"; }
+
+.ti-bolt-alt::before { content: "=EE=99=93"; }
+
+.ti-blackboard::before { content: "=EE=99=94"; }
+
+.ti-bag::before { content: "=EE=99=95"; }
+
+.ti-move::before { content: "=EE=99=96"; }
+
+.ti-arrows-vertical::before { content: "=EE=99=97"; }
+
+.ti-arrows-horizontal::before { content: "=EE=99=98"; }
+
+.ti-fullscreen::before { content: "=EE=99=99"; }
+
+.ti-arrow-top-right::before { content: "=EE=99=9A"; }
+
+.ti-arrow-top-left::before { content: "=EE=99=9B"; }
+
+.ti-arrow-circle-up::before { content: "=EE=99=9C"; }
+
+.ti-arrow-circle-right::before { content: "=EE=99=9D"; }
+
+.ti-arrow-circle-left::before { content: "=EE=99=9E"; }
+
+.ti-arrow-circle-down::before { content: "=EE=99=9F"; }
+
+.ti-angle-double-up::before { content: "=EE=99=A0"; }
+
+.ti-angle-double-right::before { content: "=EE=99=A1"; }
+
+.ti-angle-double-left::before { content: "=EE=99=A2"; }
+
+.ti-angle-double-down::before { content: "=EE=99=A3"; }
+
+.ti-zip::before { content: "=EE=99=A4"; }
+
+.ti-world::before { content: "=EE=99=A5"; }
+
+.ti-wheelchair::before { content: "=EE=99=A6"; }
+
+.ti-view-list::before { content: "=EE=99=A7"; }
+
+.ti-view-list-alt::before { content: "=EE=99=A8"; }
+
+.ti-view-grid::before { content: "=EE=99=A9"; }
+
+.ti-uppercase::before { content: "=EE=99=AA"; }
+
+.ti-upload::before { content: "=EE=99=AB"; }
+
+.ti-underline::before { content: "=EE=99=AC"; }
+
+.ti-truck::before { content: "=EE=99=AD"; }
+
+.ti-timer::before { content: "=EE=99=AE"; }
+
+.ti-ticket::before { content: "=EE=99=AF"; }
+
+.ti-thumb-up::before { content: "=EE=99=B0"; }
+
+.ti-thumb-down::before { content: "=EE=99=B1"; }
+
+.ti-text::before { content: "=EE=99=B2"; }
+
+.ti-stats-up::before { content: "=EE=99=B3"; }
+
+.ti-stats-down::before { content: "=EE=99=B4"; }
+
+.ti-split-v::before { content: "=EE=99=B5"; }
+
+.ti-split-h::before { content: "=EE=99=B6"; }
+
+.ti-smallcap::before { content: "=EE=99=B7"; }
+
+.ti-shine::before { content: "=EE=99=B8"; }
+
+.ti-shift-right::before { content: "=EE=99=B9"; }
+
+.ti-shift-left::before { content: "=EE=99=BA"; }
+
+.ti-shield::before { content: "=EE=99=BB"; }
+
+.ti-notepad::before { content: "=EE=99=BC"; }
+
+.ti-server::before { content: "=EE=99=BD"; }
+
+.ti-quote-right::before { content: "=EE=99=BE"; }
+
+.ti-quote-left::before { content: "=EE=99=BF"; }
+
+.ti-pulse::before { content: "=EE=9A=80"; }
+
+.ti-printer::before { content: "=EE=9A=81"; }
+
+.ti-power-off::before { content: "=EE=9A=82"; }
+
+.ti-plug::before { content: "=EE=9A=83"; }
+
+.ti-pie-chart::before { content: "=EE=9A=84"; }
+
+.ti-paragraph::before { content: "=EE=9A=85"; }
+
+.ti-panel::before { content: "=EE=9A=86"; }
+
+.ti-package::before { content: "=EE=9A=87"; }
+
+.ti-music::before { content: "=EE=9A=88"; }
+
+.ti-music-alt::before { content: "=EE=9A=89"; }
+
+.ti-mouse::before { content: "=EE=9A=8A"; }
+
+.ti-mouse-alt::before { content: "=EE=9A=8B"; }
+
+.ti-money::before { content: "=EE=9A=8C"; }
+
+.ti-microphone::before { content: "=EE=9A=8D"; }
+
+.ti-menu::before { content: "=EE=9A=8E"; }
+
+.ti-menu-alt::before { content: "=EE=9A=8F"; }
+
+.ti-map::before { content: "=EE=9A=90"; }
+
+.ti-map-alt::before { content: "=EE=9A=91"; }
+
+.ti-loop::before { content: "=EE=9A=92"; }
+
+.ti-location-pin::before { content: "=EE=9A=93"; }
+
+.ti-list::before { content: "=EE=9A=94"; }
+
+.ti-light-bulb::before { content: "=EE=9A=95"; }
+
+.ti-Italic::before { content: "=EE=9A=96"; }
+
+.ti-info::before { content: "=EE=9A=97"; }
+
+.ti-infinite::before { content: "=EE=9A=98"; }
+
+.ti-id-badge::before { content: "=EE=9A=99"; }
+
+.ti-hummer::before { content: "=EE=9A=9A"; }
+
+.ti-home::before { content: "=EE=9A=9B"; }
+
+.ti-help::before { content: "=EE=9A=9C"; }
+
+.ti-headphone::before { content: "=EE=9A=9D"; }
+
+.ti-harddrives::before { content: "=EE=9A=9E"; }
+
+.ti-harddrive::before { content: "=EE=9A=9F"; }
+
+.ti-gift::before { content: "=EE=9A=A0"; }
+
+.ti-game::before { content: "=EE=9A=A1"; }
+
+.ti-filter::before { content: "=EE=9A=A2"; }
+
+.ti-files::before { content: "=EE=9A=A3"; }
+
+.ti-file::before { content: "=EE=9A=A4"; }
+
+.ti-eraser::before { content: "=EE=9A=A5"; }
+
+.ti-envelope::before { content: "=EE=9A=A6"; }
+
+.ti-download::before { content: "=EE=9A=A7"; }
+
+.ti-direction::before { content: "=EE=9A=A8"; }
+
+.ti-direction-alt::before { content: "=EE=9A=A9"; }
+
+.ti-dashboard::before { content: "=EE=9A=AA"; }
+
+.ti-control-stop::before { content: "=EE=9A=AB"; }
+
+.ti-control-shuffle::before { content: "=EE=9A=AC"; }
+
+.ti-control-play::before { content: "=EE=9A=AD"; }
+
+.ti-control-pause::before { content: "=EE=9A=AE"; }
+
+.ti-control-forward::before { content: "=EE=9A=AF"; }
+
+.ti-control-backward::before { content: "=EE=9A=B0"; }
+
+.ti-cloud::before { content: "=EE=9A=B1"; }
+
+.ti-cloud-up::before { content: "=EE=9A=B2"; }
+
+.ti-cloud-down::before { content: "=EE=9A=B3"; }
+
+.ti-clipboard::before { content: "=EE=9A=B4"; }
+
+.ti-car::before { content: "=EE=9A=B5"; }
+
+.ti-calendar::before { content: "=EE=9A=B6"; }
+
+.ti-book::before { content: "=EE=9A=B7"; }
+
+.ti-bell::before { content: "=EE=9A=B8"; }
+
+.ti-basketball::before { content: "=EE=9A=B9"; }
+
+.ti-bar-chart::before { content: "=EE=9A=BA"; }
+
+.ti-bar-chart-alt::before { content: "=EE=9A=BB"; }
+
+.ti-back-right::before { content: "=EE=9A=BC"; }
+
+.ti-back-left::before { content: "=EE=9A=BD"; }
+
+.ti-arrows-corner::before { content: "=EE=9A=BE"; }
+
+.ti-archive::before { content: "=EE=9A=BF"; }
+
+.ti-anchor::before { content: "=EE=9B=80"; }
+
+.ti-align-right::before { content: "=EE=9B=81"; }
+
+.ti-align-left::before { content: "=EE=9B=82"; }
+
+.ti-align-justify::before { content: "=EE=9B=83"; }
+
+.ti-align-center::before { content: "=EE=9B=84"; }
+
+.ti-alert::before { content: "=EE=9B=85"; }
+
+.ti-alarm-clock::before { content: "=EE=9B=86"; }
+
+.ti-agenda::before { content: "=EE=9B=87"; }
+
+.ti-write::before { content: "=EE=9B=88"; }
+
+.ti-window::before { content: "=EE=9B=89"; }
+
+.ti-widgetized::before { content: "=EE=9B=8A"; }
+
+.ti-widget::before { content: "=EE=9B=8B"; }
+
+.ti-widget-alt::before { content: "=EE=9B=8C"; }
+
+.ti-wallet::before { content: "=EE=9B=8D"; }
+
+.ti-video-clapper::before { content: "=EE=9B=8E"; }
+
+.ti-video-camera::before { content: "=EE=9B=8F"; }
+
+.ti-vector::before { content: "=EE=9B=90"; }
+
+.ti-themify-logo::before { content: "=EE=9B=91"; }
+
+.ti-themify-favicon::before { content: "=EE=9B=92"; }
+
+.ti-themify-favicon-alt::before { content: "=EE=9B=93"; }
+
+.ti-support::before { content: "=EE=9B=94"; }
+
+.ti-stamp::before { content: "=EE=9B=95"; }
+
+.ti-split-v-alt::before { content: "=EE=9B=96"; }
+
+.ti-slice::before { content: "=EE=9B=97"; }
+
+.ti-shortcode::before { content: "=EE=9B=98"; }
+
+.ti-shift-right-alt::before { content: "=EE=9B=99"; }
+
+.ti-shift-left-alt::before { content: "=EE=9B=9A"; }
+
+.ti-ruler-alt-2::before { content: "=EE=9B=9B"; }
+
+.ti-receipt::before { content: "=EE=9B=9C"; }
+
+.ti-pin2::before { content: "=EE=9B=9D"; }
+
+.ti-pin-alt::before { content: "=EE=9B=9E"; }
+
+.ti-pencil-alt2::before { content: "=EE=9B=9F"; }
+
+.ti-palette::before { content: "=EE=9B=A0"; }
+
+.ti-more::before { content: "=EE=9B=A1"; }
+
+.ti-more-alt::before { content: "=EE=9B=A2"; }
+
+.ti-microphone-alt::before { content: "=EE=9B=A3"; }
+
+.ti-magnet::before { content: "=EE=9B=A4"; }
+
+.ti-line-double::before { content: "=EE=9B=A5"; }
+
+.ti-line-dotted::before { content: "=EE=9B=A6"; }
+
+.ti-line-dashed::before { content: "=EE=9B=A7"; }
+
+.ti-layout-width-full::before { content: "=EE=9B=A8"; }
+
+.ti-layout-width-default::before { content: "=EE=9B=A9"; }
+
+.ti-layout-width-default-alt::before { content: "=EE=9B=AA"; }
+
+.ti-layout-tab::before { content: "=EE=9B=AB"; }
+
+.ti-layout-tab-window::before { content: "=EE=9B=AC"; }
+
+.ti-layout-tab-v::before { content: "=EE=9B=AD"; }
+
+.ti-layout-tab-min::before { content: "=EE=9B=AE"; }
+
+.ti-layout-slider::before { content: "=EE=9B=AF"; }
+
+.ti-layout-slider-alt::before { content: "=EE=9B=B0"; }
+
+.ti-layout-sidebar-right::before { content: "=EE=9B=B1"; }
+
+.ti-layout-sidebar-none::before { content: "=EE=9B=B2"; }
+
+.ti-layout-sidebar-left::before { content: "=EE=9B=B3"; }
+
+.ti-layout-placeholder::before { content: "=EE=9B=B4"; }
+
+.ti-layout-menu::before { content: "=EE=9B=B5"; }
+
+.ti-layout-menu-v::before { content: "=EE=9B=B6"; }
+
+.ti-layout-menu-separated::before { content: "=EE=9B=B7"; }
+
+.ti-layout-menu-full::before { content: "=EE=9B=B8"; }
+
+.ti-layout-media-right-alt::before { content: "=EE=9B=B9"; }
+
+.ti-layout-media-right::before { content: "=EE=9B=BA"; }
+
+.ti-layout-media-overlay::before { content: "=EE=9B=BB"; }
+
+.ti-layout-media-overlay-alt::before { content: "=EE=9B=BC"; }
+
+.ti-layout-media-overlay-alt-2::before { content: "=EE=9B=BD"; }
+
+.ti-layout-media-left-alt::before { content: "=EE=9B=BE"; }
+
+.ti-layout-media-left::before { content: "=EE=9B=BF"; }
+
+.ti-layout-media-center-alt::before { content: "=EE=9C=80"; }
+
+.ti-layout-media-center::before { content: "=EE=9C=81"; }
+
+.ti-layout-list-thumb::before { content: "=EE=9C=82"; }
+
+.ti-layout-list-thumb-alt::before { content: "=EE=9C=83"; }
+
+.ti-layout-list-post::before { content: "=EE=9C=84"; }
+
+.ti-layout-list-large-image::before { content: "=EE=9C=85"; }
+
+.ti-layout-line-solid::before { content: "=EE=9C=86"; }
+
+.ti-layout-grid4::before { content: "=EE=9C=87"; }
+
+.ti-layout-grid3::before { content: "=EE=9C=88"; }
+
+.ti-layout-grid2::before { content: "=EE=9C=89"; }
+
+.ti-layout-grid2-thumb::before { content: "=EE=9C=8A"; }
+
+.ti-layout-cta-right::before { content: "=EE=9C=8B"; }
+
+.ti-layout-cta-left::before { content: "=EE=9C=8C"; }
+
+.ti-layout-cta-center::before { content: "=EE=9C=8D"; }
+
+.ti-layout-cta-btn-right::before { content: "=EE=9C=8E"; }
+
+.ti-layout-cta-btn-left::before { content: "=EE=9C=8F"; }
+
+.ti-layout-column4::before { content: "=EE=9C=90"; }
+
+.ti-layout-column3::before { content: "=EE=9C=91"; }
+
+.ti-layout-column2::before { content: "=EE=9C=92"; }
+
+.ti-layout-accordion-separated::before { content: "=EE=9C=93"; }
+
+.ti-layout-accordion-merged::before { content: "=EE=9C=94"; }
+
+.ti-layout-accordion-list::before { content: "=EE=9C=95"; }
+
+.ti-ink-pen::before { content: "=EE=9C=96"; }
+
+.ti-info-alt::before { content: "=EE=9C=97"; }
+
+.ti-help-alt::before { content: "=EE=9C=98"; }
+
+.ti-headphone-alt::before { content: "=EE=9C=99"; }
+
+.ti-hand-point-up::before { content: "=EE=9C=9A"; }
+
+.ti-hand-point-right::before { content: "=EE=9C=9B"; }
+
+.ti-hand-point-left::before { content: "=EE=9C=9C"; }
+
+.ti-hand-point-down::before { content: "=EE=9C=9D"; }
+
+.ti-gallery::before { content: "=EE=9C=9E"; }
+
+.ti-face-smile::before { content: "=EE=9C=9F"; }
+
+.ti-face-sad::before { content: "=EE=9C=A0"; }
+
+.ti-credit-card::before { content: "=EE=9C=A1"; }
+
+.ti-control-skip-forward::before { content: "=EE=9C=A2"; }
+
+.ti-control-skip-backward::before { content: "=EE=9C=A3"; }
+
+.ti-control-record::before { content: "=EE=9C=A4"; }
+
+.ti-control-eject::before { content: "=EE=9C=A5"; }
+
+.ti-comments-smiley::before { content: "=EE=9C=A6"; }
+
+.ti-brush-alt::before { content: "=EE=9C=A7"; }
+
+.ti-youtube::before { content: "=EE=9C=A8"; }
+
+.ti-vimeo::before { content: "=EE=9C=A9"; }
+
+.ti-twitter::before { content: "=EE=9C=AA"; }
+
+.ti-time::before { content: "=EE=9C=AB"; }
+
+.ti-tumblr::before { content: "=EE=9C=AC"; }
+
+.ti-skype::before { content: "=EE=9C=AD"; }
+
+.ti-share::before { content: "=EE=9C=AE"; }
+
+.ti-share-alt::before { content: "=EE=9C=AF"; }
+
+.ti-rocket::before { content: "=EE=9C=B0"; }
+
+.ti-pinterest::before { content: "=EE=9C=B1"; }
+
+.ti-new-window::before { content: "=EE=9C=B2"; }
+
+.ti-microsoft::before { content: "=EE=9C=B3"; }
+
+.ti-list-ol::before { content: "=EE=9C=B4"; }
+
+.ti-linkedin::before { content: "=EE=9C=B5"; }
+
+.ti-layout-sidebar-2::before { content: "=EE=9C=B6"; }
+
+.ti-layout-grid4-alt::before { content: "=EE=9C=B7"; }
+
+.ti-layout-grid3-alt::before { content: "=EE=9C=B8"; }
+
+.ti-layout-grid2-alt::before { content: "=EE=9C=B9"; }
+
+.ti-layout-column4-alt::before { content: "=EE=9C=BA"; }
+
+.ti-layout-column3-alt::before { content: "=EE=9C=BB"; }
+
+.ti-layout-column2-alt::before { content: "=EE=9C=BC"; }
+
+.ti-instagram::before { content: "=EE=9C=BD"; }
+
+.ti-google::before { content: "=EE=9C=BE"; }
+
+.ti-github::before { content: "=EE=9C=BF"; }
+
+.ti-flickr::before { content: "=EE=9D=80"; }
+
+.ti-facebook::before { content: "=EE=9D=81"; }
+
+.ti-dropbox::before { content: "=EE=9D=82"; }
+
+.ti-dribbble::before { content: "=EE=9D=83"; }
+
+.ti-apple::before { content: "=EE=9D=84"; }
+
+.ti-android::before { content: "=EE=9D=85"; }
+
+.ti-save::before { content: "=EE=9D=86"; }
+
+.ti-save-alt::before { content: "=EE=9D=87"; }
+
+.ti-yahoo::before { content: "=EE=9D=88"; }
+
+.ti-wordpress::before { content: "=EE=9D=89"; }
+
+.ti-vimeo-alt::before { content: "=EE=9D=8A"; }
+
+.ti-twitter-alt::before { content: "=EE=9D=8B"; }
+
+.ti-tumblr-alt::before { content: "=EE=9D=8C"; }
+
+.ti-trello::before { content: "=EE=9D=8D"; }
+
+.ti-stack-overflow::before { content: "=EE=9D=8E"; }
+
+.ti-soundcloud::before { content: "=EE=9D=8F"; }
+
+.ti-sharethis::before { content: "=EE=9D=90"; }
+
+.ti-sharethis-alt::before { content: "=EE=9D=91"; }
+
+.ti-reddit::before { content: "=EE=9D=92"; }
+
+.ti-pinterest-alt::before { content: "=EE=9D=93"; }
+
+.ti-microsoft-alt::before { content: "=EE=9D=94"; }
+
+.ti-linux::before { content: "=EE=9D=95"; }
+
+.ti-jsfiddle::before { content: "=EE=9D=96"; }
+
+.ti-joomla::before { content: "=EE=9D=97"; }
+
+.ti-html5::before { content: "=EE=9D=98"; }
+
+.ti-flickr-alt::before { content: "=EE=9D=99"; }
+
+.ti-email::before { content: "=EE=9D=9A"; }
+
+.ti-drupal::before { content: "=EE=9D=9B"; }
+
+.ti-dropbox-alt::before { content: "=EE=9D=9C"; }
+
+.ti-css3::before { content: "=EE=9D=9D"; }
+
+.ti-rss::before { content: "=EE=9D=9E"; }
+
+.ti-rss-alt::before { content: "=EE=9D=9F"; }
+------MultipartBoundary--q3uSUvSE7kUgMkdHtEZ2RtEbgh5lx1vUcKyMQGjZKf----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/assets/fonts/themify-icons/ie7/ie7.css
+
+@charset "utf-8";
+
+.ti-wand { }
+
+.ti-volume { }
+
+.ti-user { }
+
+.ti-unlock { }
+
+.ti-unlink { }
+
+.ti-trash { }
+
+.ti-thought { }
+
+.ti-target { }
+
+.ti-tag { }
+
+.ti-tablet { }
+
+.ti-star { }
+
+.ti-spray { }
+
+.ti-signal { }
+
+.ti-shopping-cart { }
+
+.ti-shopping-cart-full { }
+
+.ti-settings { }
+
+.ti-search { }
+
+.ti-zoom-in { }
+
+.ti-zoom-out { }
+
+.ti-cut { }
+
+.ti-ruler { }
+
+.ti-ruler-pencil { }
+
+.ti-ruler-alt { }
+
+.ti-bookmark { }
+
+.ti-bookmark-alt { }
+
+.ti-reload { }
+
+.ti-plus { }
+
+.ti-pin { }
+
+.ti-pencil { }
+
+.ti-pencil-alt { }
+
+.ti-paint-roller { }
+
+.ti-paint-bucket { }
+
+.ti-na { }
+
+.ti-mobile { }
+
+.ti-minus { }
+
+.ti-medall { }
+
+.ti-medall-alt { }
+
+.ti-marker { }
+
+.ti-marker-alt { }
+
+.ti-arrow-up { }
+
+.ti-arrow-right { }
+
+.ti-arrow-left { }
+
+.ti-arrow-down { }
+
+.ti-lock { }
+
+.ti-location-arrow { }
+
+.ti-link { }
+
+.ti-layout { }
+
+.ti-layers { }
+
+.ti-layers-alt { }
+
+.ti-key { }
+
+.ti-import { }
+
+.ti-image { }
+
+.ti-heart { }
+
+.ti-heart-broken { }
+
+.ti-hand-stop { }
+
+.ti-hand-open { }
+
+.ti-hand-drag { }
+
+.ti-folder { }
+
+.ti-flag { }
+
+.ti-flag-alt { }
+
+.ti-flag-alt-2 { }
+
+.ti-eye { }
+
+.ti-export { }
+
+.ti-exchange-vertical { }
+
+.ti-desktop { }
+
+.ti-cup { }
+
+.ti-crown { }
+
+.ti-comments { }
+
+.ti-comment { }
+
+.ti-comment-alt { }
+
+.ti-close { }
+
+.ti-clip { }
+
+.ti-angle-up { }
+
+.ti-angle-right { }
+
+.ti-angle-left { }
+
+.ti-angle-down { }
+
+.ti-check { }
+
+.ti-check-box { }
+
+.ti-camera { }
+
+.ti-announcement { }
+
+.ti-brush { }
+
+.ti-briefcase { }
+
+.ti-bolt { }
+
+.ti-bolt-alt { }
+
+.ti-blackboard { }
+
+.ti-bag { }
+
+.ti-move { }
+
+.ti-arrows-vertical { }
+
+.ti-arrows-horizontal { }
+
+.ti-fullscreen { }
+
+.ti-arrow-top-right { }
+
+.ti-arrow-top-left { }
+
+.ti-arrow-circle-up { }
+
+.ti-arrow-circle-right { }
+
+.ti-arrow-circle-left { }
+
+.ti-arrow-circle-down { }
+
+.ti-angle-double-up { }
+
+.ti-angle-double-right { }
+
+.ti-angle-double-left { }
+
+.ti-angle-double-down { }
+
+.ti-zip { }
+
+.ti-world { }
+
+.ti-wheelchair { }
+
+.ti-view-list { }
+
+.ti-view-list-alt { }
+
+.ti-view-grid { }
+
+.ti-uppercase { }
+
+.ti-upload { }
+
+.ti-underline { }
+
+.ti-truck { }
+
+.ti-timer { }
+
+.ti-ticket { }
+
+.ti-thumb-up { }
+
+.ti-thumb-down { }
+
+.ti-text { }
+
+.ti-stats-up { }
+
+.ti-stats-down { }
+
+.ti-split-v { }
+
+.ti-split-h { }
+
+.ti-smallcap { }
+
+.ti-shine { }
+
+.ti-shift-right { }
+
+.ti-shift-left { }
+
+.ti-shield { }
+
+.ti-notepad { }
+
+.ti-server { }
+
+.ti-quote-right { }
+
+.ti-quote-left { }
+
+.ti-pulse { }
+
+.ti-printer { }
+
+.ti-power-off { }
+
+.ti-plug { }
+
+.ti-pie-chart { }
+
+.ti-paragraph { }
+
+.ti-panel { }
+
+.ti-package { }
+
+.ti-music { }
+
+.ti-music-alt { }
+
+.ti-mouse { }
+
+.ti-mouse-alt { }
+
+.ti-money { }
+
+.ti-microphone { }
+
+.ti-menu { }
+
+.ti-menu-alt { }
+
+.ti-map { }
+
+.ti-map-alt { }
+
+.ti-loop { }
+
+.ti-location-pin { }
+
+.ti-list { }
+
+.ti-light-bulb { }
+
+.ti-Italic { }
+
+.ti-info { }
+
+.ti-infinite { }
+
+.ti-id-badge { }
+
+.ti-hummer { }
+
+.ti-home { }
+
+.ti-help { }
+
+.ti-headphone { }
+
+.ti-harddrives { }
+
+.ti-harddrive { }
+
+.ti-gift { }
+
+.ti-game { }
+
+.ti-filter { }
+
+.ti-files { }
+
+.ti-file { }
+
+.ti-eraser { }
+
+.ti-envelope { }
+
+.ti-download { }
+
+.ti-direction { }
+
+.ti-direction-alt { }
+
+.ti-dashboard { }
+
+.ti-control-stop { }
+
+.ti-control-shuffle { }
+
+.ti-control-play { }
+
+.ti-control-pause { }
+
+.ti-control-forward { }
+
+.ti-control-backward { }
+
+.ti-cloud { }
+
+.ti-cloud-up { }
+
+.ti-cloud-down { }
+
+.ti-clipboard { }
+
+.ti-car { }
+
+.ti-calendar { }
+
+.ti-book { }
+
+.ti-bell { }
+
+.ti-basketball { }
+
+.ti-bar-chart { }
+
+.ti-bar-chart-alt { }
+
+.ti-back-right { }
+
+.ti-back-left { }
+
+.ti-arrows-corner { }
+
+.ti-archive { }
+
+.ti-anchor { }
+
+.ti-align-right { }
+
+.ti-align-left { }
+
+.ti-align-justify { }
+
+.ti-align-center { }
+
+.ti-alert { }
+
+.ti-alarm-clock { }
+
+.ti-agenda { }
+
+.ti-write { }
+
+.ti-window { }
+
+.ti-widgetized { }
+
+.ti-widget { }
+
+.ti-widget-alt { }
+
+.ti-wallet { }
+
+.ti-video-clapper { }
+
+.ti-video-camera { }
+
+.ti-vector { }
+
+.ti-themify-logo { }
+
+.ti-themify-favicon { }
+
+.ti-themify-favicon-alt { }
+
+.ti-support { }
+
+.ti-stamp { }
+
+.ti-split-v-alt { }
+
+.ti-slice { }
+
+.ti-shortcode { }
+
+.ti-shift-right-alt { }
+
+.ti-shift-left-alt { }
+
+.ti-ruler-alt-2 { }
+
+.ti-receipt { }
+
+.ti-pin2 { }
+
+.ti-pin-alt { }
+
+.ti-pencil-alt2 { }
+
+.ti-palette { }
+
+.ti-more { }
+
+.ti-more-alt { }
+
+.ti-microphone-alt { }
+
+.ti-magnet { }
+
+.ti-line-double { }
+
+.ti-line-dotted { }
+
+.ti-line-dashed { }
+
+.ti-layout-width-full { }
+
+.ti-layout-width-default { }
+
+.ti-layout-width-default-alt { }
+
+.ti-layout-tab { }
+
+.ti-layout-tab-window { }
+
+.ti-layout-tab-v { }
+
+.ti-layout-tab-min { }
+
+.ti-layout-slider { }
+
+.ti-layout-slider-alt { }
+
+.ti-layout-sidebar-right { }
+
+.ti-layout-sidebar-none { }
+
+.ti-layout-sidebar-left { }
+
+.ti-layout-placeholder { }
+
+.ti-layout-menu { }
+
+.ti-layout-menu-v { }
+
+.ti-layout-menu-separated { }
+
+.ti-layout-menu-full { }
+
+.ti-layout-media-right-alt { }
+
+.ti-layout-media-right { }
+
+.ti-layout-media-overlay { }
+
+.ti-layout-media-overlay-alt { }
+
+.ti-layout-media-overlay-alt-2 { }
+
+.ti-layout-media-left-alt { }
+
+.ti-layout-media-left { }
+
+.ti-layout-media-center-alt { }
+
+.ti-layout-media-center { }
+
+.ti-layout-list-thumb { }
+
+.ti-layout-list-thumb-alt { }
+
+.ti-layout-list-post { }
+
+.ti-layout-list-large-image { }
+
+.ti-layout-line-solid { }
+
+.ti-layout-grid4 { }
+
+.ti-layout-grid3 { }
+
+.ti-layout-grid2 { }
+
+.ti-layout-grid2-thumb { }
+
+.ti-layout-cta-right { }
+
+.ti-layout-cta-left { }
+
+.ti-layout-cta-center { }
+
+.ti-layout-cta-btn-right { }
+
+.ti-layout-cta-btn-left { }
+
+.ti-layout-column4 { }
+
+.ti-layout-column3 { }
+
+.ti-layout-column2 { }
+
+.ti-layout-accordion-separated { }
+
+.ti-layout-accordion-merged { }
+
+.ti-layout-accordion-list { }
+
+.ti-ink-pen { }
+
+.ti-info-alt { }
+
+.ti-help-alt { }
+
+.ti-headphone-alt { }
+
+.ti-hand-point-up { }
+
+.ti-hand-point-right { }
+
+.ti-hand-point-left { }
+
+.ti-hand-point-down { }
+
+.ti-gallery { }
+
+.ti-face-smile { }
+
+.ti-face-sad { }
+
+.ti-credit-card { }
+
+.ti-control-skip-forward { }
+
+.ti-control-skip-backward { }
+
+.ti-control-record { }
+
+.ti-control-eject { }
+
+.ti-comments-smiley { }
+
+.ti-brush-alt { }
+
+.ti-youtube { }
+
+.ti-vimeo { }
+
+.ti-twitter { }
+
+.ti-time { }
+
+.ti-tumblr { }
+
+.ti-skype { }
+
+.ti-share { }
+
+.ti-share-alt { }
+
+.ti-rocket { }
+
+.ti-pinterest { }
+
+.ti-new-window { }
+
+.ti-microsoft { }
+
+.ti-list-ol { }
+
+.ti-linkedin { }
+
+.ti-layout-sidebar-2 { }
+
+.ti-layout-grid4-alt { }
+
+.ti-layout-grid3-alt { }
+
+.ti-layout-grid2-alt { }
+
+.ti-layout-column4-alt { }
+
+.ti-layout-column3-alt { }
+
+.ti-layout-column2-alt { }
+
+.ti-instagram { }
+
+.ti-google { }
+
+.ti-github { }
+
+.ti-flickr { }
+
+.ti-facebook { }
+
+.ti-dropbox { }
+
+.ti-dribbble { }
+
+.ti-apple { }
+
+.ti-android { }
+
+.ti-save { }
+
+.ti-save-alt { }
+
+.ti-yahoo { }
+
+.ti-wordpress { }
+
+.ti-vimeo-alt { }
+
+.ti-twitter-alt { }
+
+.ti-tumblr-alt { }
+
+.ti-trello { }
+
+.ti-stack-overflow { }
+
+.ti-soundcloud { }
+
+.ti-sharethis { }
+
+.ti-sharethis-alt { }
+
+.ti-reddit { }
+
+.ti-pinterest-alt { }
+
+.ti-microsoft-alt { }
+
+.ti-linux { }
+
+.ti-jsfiddle { }
+
+.ti-joomla { }
+
+.ti-html5 { }
+
+.ti-flickr-alt { }
+
+.ti-email { }
+
+.ti-drupal { }
+
+.ti-dropbox-alt { }
+
+.ti-css3 { }
+
+.ti-rss { }
+
+.ti-rss-alt { }
+------MultipartBoundary--q3uSUvSE7kUgMkdHtEZ2RtEbgh5lx1vUcKyMQGjZKf------
