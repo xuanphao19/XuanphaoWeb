@@ -100,7 +100,7 @@ html {scroll-behavior: smooth;}
                    .slide { width: 80%; margin: 156px 10% 0 10%; 
                      box-shadow: 0 0 5px rgba(190, 76, 76, 0.8);
                      padding-top: 54%; border-radius: 5px;
-                     background: url('../images/dangnhang.png'); 
+                     background: url('./images/dangnhang.png'); 
                      background-position: bottom right;
                      background-origin: border-box;
                      background-size: cover; background-attachment: scroll;
