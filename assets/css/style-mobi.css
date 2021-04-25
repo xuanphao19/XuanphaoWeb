@@ -1,1 +1,10 @@
 
+@media (max-width: 768px) {
+  #navtop #nav .subnav-mobi { display:none;}
+  #header {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 48px;}
+
+
+}
