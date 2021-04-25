@@ -1,12 +1,4 @@
-
-* { margin: 0;  padding: 0;  margin-block-start: 0px;  margin-block-end: 0px;   box-sizing: border-box;
-    -moz-box-sizing: border-box;  -webkit-box-sizing: border-box;  border-style: hidden;  border: 0px;}
-.clear {clear: both; }
-body {text-align: center;}
-html {scroll-behavior: smooth;}
-                   /* Khai báo phần tử :start! */
-
-                   * { margin: 0;  padding: 0;
+                  * { margin: 0;  padding: 0;
                     box-sizing: border-box;
                     -moz-box-sizing: border-box;  
                     -webkit-box-sizing: border-box; 
@@ -15,7 +7,9 @@ html {scroll-behavior: smooth;}
                     .clear {clear: both; }    
                      html {scroll-behavior: smooth;}
                    a {text-decoration: none;}
-                  
+
+   /* Khai báo phần tử chung:start! */
+
                   body {background-color: rgba(207, 198, 198, 0.411);}
                   
                   #header {
@@ -142,90 +136,6 @@ html {scroll-behavior: smooth;}
                      text-align: center; font-family: Arial, Helvetica, sans-serif;
                      color:red; text-shadow: 2px 2px rgba(255, 255, 0, 0.534);}
                    .hoatdongthuongnien h5 {margin: 20px; text-align: left; font-style:italic;}
-/*                    
-                   
-                   
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  .slide { }
-                  .anhchay { }
-                  #loinoidau { 
-                  }
-                  
-                  #gioithieu {
-                  
-                  
-                  }
-                  
-                  #cu-nghi-ong {
-                  
-                  
-                  }
-                  
-                  #cu-nghi-ba {
-                  
-                  
-                  }
-                  
-                  #sub-ong-ly {
-                  
-                  
-                  }
-                  
-                  #nguyen-quach-yen {
-                  
-                  
-                  }
-                  
-                  nguyen-quach-chu">
-                  nguyen-quach-bang">
-                  nguyen-quach-quang">
-                  sub-ong-cuu">
-                  nguyen-van-ngu">
-                  nguyen-van-dang">
-                  nu-tu-cu-nghi">
-                  de-ton-cu-nghi">
-                  nguyen-thanh-quang">
-                  nguyen-thi-minh">
-                  nguyen-ngoc-trinh">
-                  nguyen-thi-cuc">
-                  nguyen-thanh-hoa">
-                  nguyen-tuan-dat">
-                  nguyen-tuan-doan">
-                  nguyen-thi-ngan">
-                  nguyen-van-don">
-                  nguyen-van-cat">
-                  nguyen-thi-man">
-                  nguyen-van-ninh">
-                  nguyen-van-chuong">
-                  nguyen-thi-ngux">
-                  nguyen-van-thang">
-                  nguyen-van-du">
-                  nguyen-thanh-tuan">
-                  nguyen-thanh-nga">
-                  nguyen-thanh-long">
-                  nguyen-ngoc-nien">
-                  nguyen-ngoc-trong">
-                  nguyen-ngoc-dai">
-                  nguyen-thu-trang">
-                  nguyen-thu-huong">
-                  nguyen-ha-trang">
-                  nguyen-xuan-phao">
-                  
-                  
-                 */ 
-                
 
 .vocon-sunghiep {width: 25%; height:100%; float: left; 
 background-color: rgb(245, 237, 237); margin: 30px 17px;
@@ -291,12 +201,6 @@ box-shadow: 0 5px 7px rgb(122, 110, 110);border-radius: 5px;}
 .cackenhlienhe li {list-style-type: none;}
 
 
-@media (max-width: 768px;)
-{ #header, #main { width: 100%; i !important }  
-#navtop #nav .subnav-mobi { display:none;}
-
-
-}
 
 
 
