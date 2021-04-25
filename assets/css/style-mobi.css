@@ -1,10 +1,23 @@
 
-@media (max-width: 768px) {
-  #navtop #nav .subnav-mobi { display:none;}
-  #header {
-    position: fixed;
-    top: 0; left: 0;
-    width: 100%; height: 48px;}
 
+@media only screen and (max-width: 768px) {
+#header {width:100%; left: 0; }
+#navtop #nav .subnav-mobi { display:none;}
+.headphones {top: 0px; right: 0px;} 
+.headphones .ti-headphone-alt {padding: 13px 10px;}
+.giapha-chuchay { font-size: 35px !important;}
+.langphong {margin-left: 60px; font-size: 25px;}
+.slide { width: 95%; margin: 186px 2.5% 0 2.5%;}
+#loinoidau {width: 100%;
+  margin: 40px 10px 0 15px; font-size: 14px;}
+#loinoidau .lndau {margin-left: 5px;}
+#loinoidau p { margin-left: 20px;}
+#gioithieu { font-size: 14px;}
+#gioithieu h2 { font-size: 17px;}
+
+
+
+
+.anhchay marquee { width:100%; height:120px; bottom: 15px; left: 5px; right:5px;}
 
 }
