@@ -5,7 +5,8 @@
   .headphones .ti-headphone-alt {padding: 13px 10px;}
   .giapha-chuchay { font-size: 25px !important;}
   .langphong {margin-left: 60px; font-size: 20px;}
-  .slide { width: 95%; margin: 195px 2.5% 0 2.5%;}
+  .slide { width: 95%; margin: 210px 2.5% 0 2.5%;
+    padding-top: 54%;}
   #loinoidau {width: 100%;
     margin: 40px 10px 0 15px; font-size: 14px;}
   #loinoidau .lndau {margin-left: 5px;}
