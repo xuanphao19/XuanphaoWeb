@@ -3,7 +3,9 @@
   box-sizing: border-box;
   -moz-box-sizing: border-box; 
   -webkit-box-sizing: border-box; 
-  border-style: hidden; border: 0px; border:none;}
+  border-style: hidden; 
+  border: 0px; border:none;
+  outline: none;}
 
 .clear {clear: both; } 
 html {scroll-behavior: smooth;}
@@ -13,11 +15,11 @@ body {background-color: rgba(207, 198, 198, 0.411);}
 
 #header {
   position: fixed;
-  top: 0; left: 10%;
-  width: 80%; height: 48px;
+  top: 0; left: 5%;
+  width: 90%; height: 48px;
   margin: 0 0; float: left;
   background-color: rgba(99, 97, 92, 0.692);
-  box-shadow: 2px 2px 0 rgba(27, 27, 26, 0.815); 
+  box-shadow: 1px 1px 0 rgba(27, 27, 26, 0.15); 
   display: flex; z-index: 155; border-radius: 4px;}
 
 .logo-lang>img,
@@ -81,43 +83,73 @@ body {background-color: rgba(207, 198, 198, 0.411);}
   text-shadow: 0 1px 1px rgba(255, 255, 0, 0.692);} 
 
 .headphones {
-  float: right; position:fixed; top: 0px; right: 10%;
+  float: right; position:absolute; top: 0px; right: 0;
   color: blue; font-weight: 900; line-height: 48px;} 
 .headphones .ti-headphone-alt {padding: 13px 27px; text-shadow: 0 0 7px rgba(247, 7, 7, 0.794);}
 .headphones .ti-headphone-alt:hover { background-color: rgba(243, 15, 61, 0.76);
  color: yellow; cursor: pointer;}
 
 
- #main { text-align: center; margin: 0px 10%; width: 80%; height: 999999px;}
+ #main { text-align: center; margin: 0px 10%; height: 999999px;}
 
-.slide { width: 80%; margin: 256px 10% 0 10%; 
-  box-shadow: 0px 0px 15px rgba(233, 16, 16, 0.8);
-  padding-top: 54%; border-radius: 5px;
-  background: url('../images/dangnhang.png'); 
+.slide { width: 75%; margin: 60px auto 0; 
+  box-shadow: 0px 0px 10px rgba(233, 16, 16, 0.5);
+  padding-top: 44%; border-radius: 5px;
+  background-image: url(../images/dangnhang.png);
   background-position: bottom right;
   background-origin: border-box;
-  background-size: cover; background-attachment: scroll;
-  background-repeat: no-repeat;}
-.text-chaohoi marquee { position: fixed; top: 90px; left: 0; right: 0;
-  height: 130px; width:100%; text-align: center !important;
+  background-size: cover; 
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  -webkit-animation: slide 18000ms infinite; 
+  -moz-animation: slide 18000ms infinite; 
+  -o-animation: slide 18000ms infinite;
+  animation: slide 18000ms infinite; }
+
+@keyframes slide {
+  20% {background-image: url(../images/111.png);}
+  40% {background-image: url(../images/101.png);}
+  60% {background-image: url(../images/25.jpg);}
+  80% {background-image: url(../images/10.jpg);}
+  90% {background-image: url(../images/dangnhang.png);}
+  100% {background-image: url(../images/dangnhang.png);}
+}
+.text-chaohoi marquee {   
+  position: fixed; 
+  top: 90px; left: 0; right: 0;
+  height: 130px; width:100%; 
+  text-align: center !important;
   font-style: italic; font-weight: 900; 
-  color: rgb(255, 0, 0); text-shadow: 0 0 1px rgb(228, 253, 3);}
+  color: rgb(255, 0, 0); 
+  text-shadow: 0 0 1px rgb(228, 253, 3);}
+
+  @keyframes toi { 0% { color: #0004ff;} 
+  50% { color: rgb(0, 255, 76); } 100% { color: #0011ff; }} 
 .langphong  {font-weight:bold; font-size: 40px; 
   -webkit-animation: toi 2000ms infinite; 
   -moz-animation: toi 2000ms infinite; 
   -o-animation: toi 1500ms infinite;
   animation: toi 700ms infinite; z-index: 555;}
+
  @keyframes my { 0% { color: #ff00f2;} 
  50% { color: rgb(9, 255, 0); } 100% { color: #ff0000; }}
-.giapha-chuchay, #gioithieu h2 {font-weight:bold; -webkit-animation: my 1500ms infinite; 
-  -moz-animation: my 1500ms infinite; -o-animation: my 2000ms infinite;
+.giapha-chuchay, #gioithieu h2 {
+  font-weight:bold; 
+  -webkit-animation: my 1500ms infinite; 
+  -moz-animation: my 1500ms infinite; 
+  -o-animation: my 2000ms infinite;
   animation: my 600ms infinite; z-index: 5;}
- @keyframes toi { 0% { color: #0004ff;} 
-  50% { color: rgb(0, 255, 76); } 100% { color: #0011ff; }}
- 
-.anhchay marquee { width: 10%; height: 135px; position: fixed; bottom: 28px; right: 15px; z-index: 99;}
-#loinoidau  {width: 80%; height: 400px; 
-  margin: 50px 10% 0 10%; color: blue;
+
+
+.anhchay marquee { 
+  width: 10%; 
+  position: fixed; 
+  bottom: 28px; 
+  right: 15px; 
+  z-index: 99;}
+
+#loinoidau  {width: 90%; height: 400px; 
+  margin: 40px 10% 0 10%; color: blue;
   text-align: left; font-style: italic;}
 #loinoidau .lndau {margin: 0px 0 10px 15px; font-size: 24px;}
 #loinoidau p { margin-left: 35px; font-size: 15px;}
@@ -166,7 +198,9 @@ body {background-color: rgba(207, 198, 198, 0.411);}
 .headphones .ti-headphone-alt {padding: 13px 10px;}
 .giapha-chuchay { font-size: 35px !important;}
 .langphong {margin-left: 60px; font-size: 25px;}
+
 .slide { width: 95%; margin: 186px 2.5% 0 2.5%;}
+
 #loinoidau {width: 100%;
   margin: 40px 10px 0 15px; font-size: 14px;}
 #loinoidau .lndau {margin-left: 5px;}
@@ -180,3 +214,15 @@ body {background-color: rgba(207, 198, 198, 0.411);}
 .anhchay marquee { width:100%; height:120px; bottom: 15px; left: 5px; right:5px;}
 
 }
+
+.doinen {
+  width: 65%; height: 600px;
+  margin: 100px auto;
+  background-position: bottom right;
+  background-origin: border-box;
+  background-size: cover;
+  -webkit-animation: slide 8000ms infinite; 
+  -moz-animation: slide 8000ms infinite; 
+  -o-animation: slide 8000ms infinite;
+  animation: slide 8000ms infinite; }
+
