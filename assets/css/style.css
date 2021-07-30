@@ -1,6 +1,6 @@
 
 .mangrong {
-  height: 1000px;
+  height: 800px;
 }
 * { margin: 0; padding: 0;
   box-sizing: border-box;
@@ -71,18 +71,19 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 }
 .headerlogo {
   position:absolute;
-  top: 45%;
-  transform: translateY(-50%);
+  top: 50%;
+  margin-left: 2%;
+  transform: translateY(-62%);
   width: 26px;
   height: 28px;
   float: left;
-  margin: 0 0 0 3%;
   background-image: url("https://xuanphao19.github.io/GiaPha_Ho_Nguyen_LangPhong_NhoQuan/assets/images/icon_home.png");
   background-repeat: no-repeat;
   background-size:cover;
 }
 .header_nav .nav {
   width: 100%;
+   /* display: none; */
 }
 .nav_list {
   margin-left: 6%;
@@ -109,22 +110,23 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   top: 50px;
   margin-left: -10px;
   display: none;
+  z-index: 9999;
 }
 .subnav li {
-  min-width: 220px;
+  min-width: 227px;
   height: 40px;
   text-align: left;
   background-color: rgba(207, 221, 221, 0.5);
   box-shadow: 0 0 5px rgb(0 0 0 );
   border-radius: 4px;
-  z-index: 9999;
+
 }
 .subnav li a { display: inline;
   margin: 10px; padding: 2px 4px;
   font-size: 16px;
   color: brown;
   line-height: 40px;
-  text-shadow: 0.5px 0.5px 0 rgba(62, 49, 177, 0.6);}
+  text-shadow: 1px 1px 0 rgba(62, 49, 177, 0.8);}
 
 .nav_list>li:hover >.subnav {
   display: block; cursor: pointer; }
@@ -136,6 +138,9 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   border-radius: 5px;
   background-color: rgba(255, 252, 248, 0.3);
   box-shadow: 0 0 4px rgba(109, 112, 109, 0.8);
+}
+.subnav>li:hover {
+  background-color: rgba(255, 252, 248, 0.7);
 }
 .nav_list li:hover li {
   border-radius: 5px; 
@@ -155,10 +160,103 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 #slider {
 
 }
-.slider_bgr .topnews{
+.slider_bgr {
+  position: relative;
+  width: 100%;
+}
+
+.slider_bgr .topnews {
   width: 80%;
   margin-left: 10% ;
 }
+
+.slider_bordervideo {
+  position: absolute;
+  top: 11%;
+  left: 22%;
+  width: 30%;
+}
+.bordervideo_img {
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.slider_videoconten {
+  position: absolute;
+  top: 4%;
+  left: 3%;
+  width: 94%;
+  box-shadow: rgb(233 16 16 / 40%) 0px 0px 5px;
+  padding-top: 57%;
+  border-radius: 5px;
+  background-image: url(../images/dangnhang.png);
+  
+  background-origin: border-box;
+  background-size: cover; 
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  -webkit-animation: slides 88000ms infinite; 
+  -moz-animation: slides 88000ms infinite; 
+  -o-animation: slides 88000ms infinite;
+  animation: slides 88000ms infinite; 
+}
+
+@keyframes slides {
+  2%{background-image: url(../images/dangnhang.png);}
+  4%{background-image: url(../images/Di_dai_dien.jpg);}
+  6%{background-image: url(../images/HaitayHaico.jpg);}
+  8%{background-image: url(../images/HaTrang_Haihoa.JPG);}
+  10%{background-image: url(../images/dangnhang.png);}
+  12%{background-image: url(../images/HaTrang_NangvaHoa.JPG);}
+  14%{background-image: url(../images/HaTrangvaThudo.jpg);}
+  16%{background-image: url(../images/HoaDaiNhan.jpg);}
+  18%{background-image: url(../images/Lu_huong.jpg);}
+  20%{background-image: url(../images/Phao_Thu_Do.jpg);}
+  22%{background-image: url(../images/dangnhang.png);}
+  24%{background-image: url(../images/SinhnhatMysa.jpg);}
+  26%{background-image: url(../images/ThuTang_Baito.jpg);}
+  28%{background-image: url(../images/ThuTrangCute.jpg);}
+  30%{background-image: url(../images/ThuTrangvaOngnoi.jpg);}
+  32%{background-image: url(../images/TambietGauMysa.jpg);}
+  34%{background-image: url(../images/dangnhang.png);}
+  36%{background-image: url(../images/Trang_Taukhua.JPG);}
+  38%{background-image: url(../images/Di_dai_dien.jpg);}
+  40%{background-image: url(../images/HaitayHaico.jpg);}
+  42%{background-image: url(../images/HaTrang_Haihoa.JPG);}
+  44%{background-image: url(../images/dangnhang.png);}
+  46%{background-image: url(../images/HaTrang_NangvaHoa.JPG);}
+  48%{background-image: url(../images/HaTrangvaThudo.jpg);}
+  50%{background-image: url(../images/HoaDaiNhan.jpg);}
+  52%{background-image: url(../images/Lu_huong.jpg);}
+  54%{background-image: url(../images/Phao_Thu_Do.jpg);}
+  56%{background-image: url(../images/dangnhang.png);}
+  58%{background-image: url(../images/SinhnhatMysa.jpg);}
+  60%{background-image: url(../images/ThuTang_Baito.jpg);}
+  62%{background-image: url(../images/ThuTrangCute.jpg);}
+  64%{background-image: url(../images/ThuTrangvaOngnoi.jpg);}
+  66%{background-image: url(../images/TambietGauMysa.jpg);}
+  68%{background-image: url(../images/dangnhang.png);}
+  70%{background-image: url(../images/Trang_Taukhua.JPG);}
+  72%{background-image: url(../images/HaTrang_Haihoa.JPG)}
+  74%{background-image: url(../images/dangnhang.png);}
+  76%{background-image: url(../images/HaTrang_NangvaHoa.JPG);}
+  78%{background-image: url(../images/HaTrangvaThudo.jpg);}
+  80%{background-image: url(../images/HoaDaiNhan.jpg);}
+  82%{background-image: url(../images/Lu_huong.jpg);}
+  84%{background-image: url(../images/Phao_Thu_Do.jpg);}
+  86%{background-image: url(../images/dangnhang.png);}
+  88%{background-image: url(../images/SinhnhatMysa.jpg);}
+  90%{background-image: url(../images/ThuTang_Baito.jpg);}
+  92%{background-image: url(../images/ThuTrangCute.jpg);}
+  94%{background-image: url(../images/ThuTrangvaOngnoi.jpg);}
+  96%{background-image: url(../images/TambietGauMysa.jpg);}
+  98%{background-image: url(../images/dangnhang.png);}
+  100%{background-image: url(../images/Trang_Taukhua.JPG);}
+}
+
+
+
+
 
 .slider_text {
 
@@ -169,32 +267,44 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-
-.text-chaohoi marquee {   
+/* 
+ marquee {   
   position: fixed; 
-  top: 10px; left: 0; right: 0;
-  height: 130px; width:100%; 
-  text-align: center !important;
-  font-style: italic; font-weight: 900; 
-  color: rgb(255, 0, 0); 
-  text-shadow: 0 0 1px rgb(228, 253, 3);
-z-index: 1;}
-
-  @keyframes toi { 0% { color: #0004ff;} 
-  50% { color: rgb(0, 255, 76); } 100% { color: #0011ff; }} 
-.langphong  {font-weight:bold; font-size: 40px; 
-  -webkit-animation: toi 2000ms infinite; 
-  -moz-animation: toi 2000ms infinite; 
-  -o-animation: toi 2000ms infinite;
-  animation: toi 2000ms infinite; z-index: 555;}
-
- @keyframes my { 0% { color: #ff00f2;} 
- 50% { color: rgb(9, 255, 0); } 100% { color: #ff0000; }}
-.giapha-chuchay, #gioithieu h2 {
+  top: 15px; }
+.cm_slogen {
+    width:150%; 
+    height: 130px;
+    font-style: italic; 
+    font-weight: 800; 
+    text-align: center;
+    text-shadow: 0 0 1px rgb(228, 253, 3);  }
+  @keyframes toi { 
+  0% { color: #0004ff;} 
+  25% { color: rgb(0, 255, 76);} 
+  50% { color: #ff00f2; } 
+  75% { color: #0011ff; } 
+  100% { color: rgb(0, 255, 76);}} 
+.langphong  {
+  display:block;
   font-weight:bold; 
+  font-size: 40px; 
+  -webkit-animation: toi 800ms infinite; 
+  -moz-animation: toi 800ms infinite; 
+  -o-animation: toi 800ms infinite;
+  animation: toi 800ms infinite; z-index:1;}
+
+ @keyframes my { 
+  0% { color: #ff00f2;} 
+  25% { color: #ff0000; } 
+  50% { color: rgb(0, 255, 76); } 
+  75% { color: #ff0000;}
+ 100% { color: rgb(0, 255, 76);}}
+.giapha-chuchay {
+  display: block;
+  font-weight:bold;
   -webkit-animation: my 1500ms infinite; 
   -moz-animation: my 1500ms infinite; 
-  -o-animation: my 2000ms infinite;
-  animation: my 600ms infinite; z-index: 5;}
+  -o-animation: my 1500ms infinite;
+  animation: my 1500ms infinite; z-index: 1;} */
 
 

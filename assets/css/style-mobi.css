@@ -1,10 +1,10 @@
 @media only screen and (max-width: 768px) { 
 .text-chaohoi marquee {   
   position: fixed; 
-  top: 10%; left: 0; right: 0;}
+  top: 35px;}
   .giapha-chuchay { font-size: 20px !important;}
-  .langphong {margin-left: 25px; font-size: 15px;}}
+  .langphong {font-size: 15px !important;}}
+  @media only screen and (max-width: 1050px) { 
 
-
-
-
+    .rungthongbao {display: none;}
+  }
