@@ -320,7 +320,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   color: rgb(0, 0, 0);
   direction: ltr;
   display: block;
-  overflow: scroll;
+  overflow-y: scroll;
   text-overflow: ellipsis; 
   text-transform: none;
   text-align:justify; 
@@ -328,8 +328,6 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   font-size: 15px;}
 
 
-/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
