@@ -43,6 +43,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 }
 #header {
   background-color: rgba(140, 25, 5, 75%);
+  z-index: 999;
 } 
 .header_img {
   position: relative;
@@ -171,12 +172,13 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 .text-chaohoi marquee {   
   position: fixed; 
-  top: 40%; left: 0; right: 0;
+  top: 10px; left: 0; right: 0;
   height: 130px; width:100%; 
   text-align: center !important;
   font-style: italic; font-weight: 900; 
   color: rgb(255, 0, 0); 
-  text-shadow: 0 0 1px rgb(228, 253, 3);}
+  text-shadow: 0 0 1px rgb(228, 253, 3);
+z-index: 1;}
 
   @keyframes toi { 0% { color: #0004ff;} 
   50% { color: rgb(0, 255, 76); } 100% { color: #0011ff; }} 
