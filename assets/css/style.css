@@ -268,7 +268,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 .slidertext_conten li {
   display: inline-block;
   vertical-align: top;
-  padding: 5px 18px;
+  padding: 5px 19px;
   border-left: 2px solid #cb1111;
   overflow: hidden;
   width: 18%;
@@ -281,7 +281,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   font-size: 14px;
   font-style: italic;
   font-family: serif;
-  line-height: 18px;
+  line-height: 16px;
   font-weight: bold;
   display: block;
 }
