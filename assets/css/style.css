@@ -1,4 +1,7 @@
 
+.mangrong {
+  height: 1000px;
+}
 * { margin: 0; padding: 0;
   box-sizing: border-box;
   -moz-box-sizing: border-box; 
@@ -8,115 +11,167 @@
   outline: none;}
 
 .clear {clear: both; } 
-html {scroll-behavior: smooth;}
 a {text-decoration: none;}
+html {scroll-behavior: smooth;}
+li {  list-style: none;}
+body {background-image: url(../images/Nen_Rong_Cuon.png);
+  background-repeat: repeat;
+  background-size:contain;}
 
-body {background-color: rgba(207, 198, 198, 0.411);}
-
-#header {
-  position: fixed;
-  top: 0; left: 5%;
-  width: 90%; height: 48px;
-  margin: 0 0; float: left;
-  background-color: rgba(99, 97, 92, 0.692);
-  box-shadow: 1px 1px 0 rgba(27, 27, 26, 0.15); 
-  display: flex; z-index: 155; border-radius: 4px;}
-
-.logo-lang>img,
-#logo {position: fixed; top: 0px;
-  z-index: 15; display: block;
-  width: 40px; height: 48px; border-radius: 3px; 
-  box-shadow: 0 0 20px rgba(231, 247, 11, 0.767);}
-.logo-lang>img:hover { -webkit-transform: scale(1.5); cursor: pointer;
-  transform: scale(1.5); box-shadow: 0 0 15px rgba(255, 0, 0, 0.76) }
-
-#header #navtop {font-size: 0; margin-left: 45px;}
-
-#navtop #nav >li {
-  position: relative; top: 0; 
-  width: 156px; height: 48px; 
-  display: inline-block;
-  background-color: rgba(207, 221, 221, 0.429);
-  list-style-type: none; border-radius: 4px;
-  box-shadow: 0 0 5px rgba(34, 36, 36, 0.429);
-  text-align: center;
-  font-size: 15px;}
-
-#navtop > #nav >li >a {
-  line-height: 48px; padding: 2px;
-  font-family: Arial, Helvetica, sans-serif;
-  text-transform: uppercase;
-  border-radius: 4px;
-  color: brown;
-  text-shadow: 0 1px 1px yellow;}
-#nav .subnav {
+.nenbia {
+  position: relative;;
+  display: flex;
+  padding-top: 48%;
+  background-image: url(../images/nen_menutrai_ngang.jpg);
+  background-repeat: no-repeat;
+  background-clip:padding-box;
+  background-size: cover;
+}
+.biagiapha {
   position: absolute;
-  font-size: 0; 
-  display: none;}
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 6%;
+  width: 30%;
+  border-radius: 10px;
+  box-shadow: 10px 15px 15px rgba(27, 27, 26, 0.7);
+}
+.image_bia img{
+  width: 100%;
+  bottom: 0;
+  border-radius: 10px;
+}
+#header {
+  background-color: rgba(140, 25, 5, 75%);
+} 
+.header_img {
+  position: relative;
+}
+.header_img .CuonthuRongchau {
+  top: 0;
+  width: 100%;
+  opacity: 0.9;
+  box-shadow: 0 0 10px rgba(27, 27, 26, 0.7);
+}
+.header_img .Logo_Hacnang {
+  position: absolute;
+  top: 18%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 25%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px rgba(245, 245, 8, 0.8); 
+}
+.header_nav {
+  position: relative;
+  width: 100%;
+  height: 52px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.headerlogo {
+  position:absolute;
+  top: 45%;
+  transform: translateY(-50%);
+  width: 26px;
+  height: 28px;
+  float: left;
+  margin: 0 0 0 3%;
+  background-image: url("https://xuanphao19.github.io/GiaPha_Ho_Nguyen_LangPhong_NhoQuan/assets/images/icon_home.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.header_nav .nav {
+  width: 100%;
+}
+.nav_list {
+  margin-left: 6%;
+}
 
-#nav .subnav li { 
-  width: 156px;
+.nav_list > li {
+  float: left;
+  min-width: 100px;
+  padding: 15px 10px;
+  text-align: center;
+  font-size: 18px;
+}
+.nav_list > li >a{
+  padding: 2px 10px;
+  color: #f5f508cc;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0 rgba(62, 49, 177, 0.46);
+}
+.nav_list .nav_item { 
+  position: relative;
+}
+.subnav {
+  position: absolute;
+  top: 50px;
+  margin-left: -10px;
+  display: none;
+}
+.subnav li {
+  min-width: 220px;
   height: 40px;
   text-align: left;
-  background-color: rgba(207, 221, 221, 0.429);
+  background-color: rgba(207, 221, 221, 0.5);
   box-shadow: 0 0 5px rgb(0 0 0 );
-  border-radius: 4px;}
-
-.subnav li a { display: inline;
-  margin: 5px; padding: 2px;
-  font-size: 13px;
-  color: brown;
-  line-height: 30px;}
-
-#nav >li:hover .subnav {
-  display: block; cursor: pointer; }
-.subnav >li:hover,  #nav li:hover {
-  text-align: center; border-radius: 5px;
-  background-color: rgba(255, 252, 248, 0.507);
-  box-shadow: 0 0 4px rgba(109, 112, 109, 0.931);cursor: pointer;}
-#nav li:hover li {border-radius: 5px; background-color: rgba(255, 252, 248, 0.466);
-  box-shadow: 0 0 4px rgba(89, 92, 92, 0.938);}
-#navtop #nav>li:hover>a {background-color: rgba(240, 223, 200, 0.294); }
-#nav>li:hover>a, .subnav >li:hover>a {border-radius: 4px;
-  box-shadow: 2px 2px 0 rgba(27, 27, 26, 0.815); 
-  background-color: rgba(240, 223, 200, 0.657); 
-  text-shadow: 0 1px 1px rgba(255, 255, 0, 0.692);} 
-
-.headphones {
-  float: right; position:absolute; top: 0px; right: 0;
-  color: blue; font-weight: 900; line-height: 48px;} 
-.headphones .ti-headphone-alt {padding: 13px 27px; text-shadow: 0 0 7px rgba(247, 7, 7, 0.794);}
-.headphones .ti-headphone-alt:hover { background-color: rgba(243, 15, 61, 0.76);
- color: yellow; cursor: pointer;}
-
-
- #main { text-align: center; margin: 0px 10%; height: 999999px;}
-
-.slide { width: 75%; margin: 60px auto 0; 
-  box-shadow: 0px 0px 10px rgba(233, 16, 16, 0.5);
-  padding-top: 44%; border-radius: 5px;
-  background-image: url(../images/dangnhang.png);
-  background-position: bottom right;
-  background-origin: border-box;
-  background-size: cover; 
-  background-attachment: scroll;
-  background-repeat: no-repeat;
-  -webkit-animation: slide 18000ms infinite; 
-  -moz-animation: slide 18000ms infinite; 
-  -o-animation: slide 18000ms infinite;
-  animation: slide 18000ms infinite; }
-
-@keyframes slide {
-  20% {background-image: url(../images/111.png);}
-  40% {background-image: url(../images/101.png);}
-  60% {background-image: url(../images/25.jpg);}
-  80% {background-image: url(../images/10.jpg);}
-  90% {background-image: url(../images/dangnhang.png);}
-  100% {background-image: url(../images/dangnhang.png);}
+  border-radius: 4px;
+  z-index: 9999;
 }
+.subnav li a { display: inline;
+  margin: 10px; padding: 2px 4px;
+  font-size: 16px;
+  color: brown;
+  line-height: 40px;
+  text-shadow: 0.5px 0.5px 0 rgba(62, 49, 177, 0.6);}
+
+.nav_list>li:hover >.subnav {
+  display: block; cursor: pointer; }
+
+.subnav>li:hover,  
+.nav_list > li:hover {
+  cursor: pointer;
+  text-align: center; 
+  border-radius: 5px;
+  background-color: rgba(255, 252, 248, 0.3);
+  box-shadow: 0 0 4px rgba(109, 112, 109, 0.8);
+}
+.nav_list li:hover li {
+  border-radius: 5px; 
+  background-color: rgba(255, 251, 248, 0.4);
+  box-shadow: 0 0 4px rgba(89, 92, 92, 0.8);}
+.nav_list>li:hover>a, 
+.subnav >li:hover>a {
+  border-radius: 4px;
+  color:saddlebrown;
+  background-color: rgba(240, 223, 200, 0.8); 
+  box-shadow: 0 0 2px rgba(27, 27, 26, 0.7); 
+  text-shadow: 0 1px 1px rgba(255, 255, 0, 0.8);}
+
+
+        /* Tạm okokok !!!!!!!!!!!!@@@@@@@@@ */
+        
+#slider {
+
+}
+.slider_bgr .topnews{
+  width: 80%;
+  margin-left: 10% ;
+}
+
+.slider_text {
+
+}
+
+/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 .text-chaohoi marquee {   
   position: fixed; 
-  top: 90px; left: 0; right: 0;
+  top: 40%; left: 0; right: 0;
   height: 130px; width:100%; 
   text-align: center !important;
   font-style: italic; font-weight: 900; 
@@ -128,8 +183,8 @@ body {background-color: rgba(207, 198, 198, 0.411);}
 .langphong  {font-weight:bold; font-size: 40px; 
   -webkit-animation: toi 2000ms infinite; 
   -moz-animation: toi 2000ms infinite; 
-  -o-animation: toi 1500ms infinite;
-  animation: toi 700ms infinite; z-index: 555;}
+  -o-animation: toi 2000ms infinite;
+  animation: toi 2000ms infinite; z-index: 555;}
 
  @keyframes my { 0% { color: #ff00f2;} 
  50% { color: rgb(9, 255, 0); } 100% { color: #ff0000; }}
@@ -140,89 +195,4 @@ body {background-color: rgba(207, 198, 198, 0.411);}
   -o-animation: my 2000ms infinite;
   animation: my 600ms infinite; z-index: 5;}
 
-
-.anhchay marquee { 
-  width: 10%; 
-  position: fixed; 
-  bottom: 28px; 
-  right: 15px; 
-  z-index: 99;}
-
-#loinoidau  {width: 90%; height: 400px; 
-  margin: 40px 10% 0 10%; color: blue;
-  text-align: left; font-style: italic;}
-#loinoidau .lndau {margin: 0px 0 10px 15px; font-size: 24px;}
-#loinoidau p { margin-left: 35px; font-size: 15px;}
-
-#gioithieu { margin: 10% 10%; text-align:left;}
-#gioithieu h4 {text-align: center;
-  margin-bottom: 45px; text-transform: uppercase;
-  text-shadow: 2px 1px 1px rgba(224, 109, 109, 0.931);}
-#gioithieu p {margin-left: 3%; margin-top: 25px;}
-#gioithieu h2 { text-align: center;
-  font-style: italic; margin: 25px; color: brown;
-  font-family: Arial, Helvetica, sans-serif;}
-  
-.anhgiadinhthanhvien {margin: 25px; margin-left: 10%; }
-.hoatdongthuongnien { width:80%; height: 500px; text-align: center; 
-  margin: 25px; margin-left: 10%;}
-.hoatdongthuongnien h2 { 
-  text-align: center; font-family: Arial, Helvetica, sans-serif;
-  color:red; text-shadow: 2px 2px rgba(255, 255, 0, 0.534);}
-.hoatdongthuongnien h5 {margin: 20px; text-align: left; font-style:italic;}
-
-#cu-nghi-ong {
-
-
-}
-
-#cu-nghi-ba {
-
-
-}
-
-#sub-ong-ly {
-
-
-}
-
-#nguyen-quach-yen {
-
-
-}
-
-@media only screen and (max-width: 768px) {
-#header {width:100%; left: 0; }
-#navtop #nav .subnav-mobi { display:none;}
-.headphones {top: 0px; right: 0px;} 
-.headphones .ti-headphone-alt {padding: 13px 10px;}
-.giapha-chuchay { font-size: 35px !important;}
-.langphong {margin-left: 60px; font-size: 25px;}
-
-.slide { width: 95%; margin: 186px 2.5% 0 2.5%;}
-
-#loinoidau {width: 100%;
-  margin: 40px 10px 0 15px; font-size: 14px;}
-#loinoidau .lndau {margin-left: 5px;}
-#loinoidau p { margin-left: 20px;}
-#gioithieu { font-size: 14px;}
-#gioithieu h2 { font-size: 17px;}
-
-
-
-
-.anhchay marquee { width:100%; height:120px; bottom: 15px; left: 5px; right:5px;}
-
-}
-
-.doinen {
-  width: 65%; height: 600px;
-  margin: 100px auto;
-  background-position: bottom right;
-  background-origin: border-box;
-  background-size: cover;
-  -webkit-animation: slide 8000ms infinite; 
-  -moz-animation: slide 8000ms infinite; 
-  -o-animation: slide 8000ms infinite;
-  animation: slide 8000ms infinite; }
 
