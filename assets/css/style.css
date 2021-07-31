@@ -17,7 +17,6 @@ li {  list-style: none;}
 body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-repeat: repeat;
   background-size:contain;}
-
 .nenbia {
   position: relative;;
   display: flex;
@@ -63,7 +62,6 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   border-radius: 10px;
   box-shadow: 0px 0px 20px rgba(245, 245, 8, 0.8); 
 }
-
 .header_nav {
   position: relative;
   width: 100%;
@@ -154,26 +152,28 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   box-shadow: 0 0 2px rgba(27, 27, 26, 0.7); 
   text-shadow: 0 1px 1px rgba(255, 255, 0, 0.8);}
 .quayphai {
-  left: -46%;
-}
+  left: -46%;}
 
-        /* Tạm okokok !!!!!!!!!!!!@@@@@@@@@ */
+/* Tạm okokok !!!!!!!!!!!!@@@@@@@@@ */
+
+#slider {
+  width: 80%;
+  margin: auto;
+}
 .slider_bgr {
   position: relative;
   width: 100%;
 }
-
 .slider_bgr .topnews {
   margin-top: -20px;
-  width: 80%;
-  margin-left: 10% ;
+  width: 100%;
 }
 
 .slider_bordervideo {
   position: absolute;
-  top: 4.5%;
-  left: 22%;
-  width: 30%;
+  top: 4%;
+  left: 17%;
+  width: 39%;
 }
 .bordervideo_img {
   top: 0;
@@ -255,80 +255,116 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 .slider_text {
   position: absolute;
   top: 6%;
-  right: 15%;
-  width: 28%;
-  padding-top: 18%;
+  right: 6%;
+  width: 33%;
+  height: 80%;
+  overflow-y: scroll;
 }
-.slidertext_conten {
+.slidertext_content {
   position: absolute;
   top: 0;
   right: 0;
   width: 100%;
+  font-size: 0;
 }
-.slidertext_conten li {
+.slidertext_content li {
   display: inline-block;
   vertical-align: top;
-  padding: 5px 19px;
+  padding: 1% 6%;
+  float: right;
+  text-align: left;
   border-left: 2px solid #cb1111;
-  overflow: hidden;
-  width: 18%;
+  width: 19%;
 }
-.slidertext_conten:last-child {
+.slidertext_content:last-child {
   border-right: 2px solid #cb1111;
 }
-.slidertext_conten li a { 
+.slidertext_content li a { 
   color: #19191a;
-  font-size: 14px;
+  font-size: 13px;
   font-style: italic;
   font-family: serif;
-  line-height: 16px;
+  line-height: 1.4;
   font-weight: bold;
   display: block;
 }
-.slidertext_conten li a:hover { 
+.slidertext_content li a:hover { 
   text-decoration: underline;
 }
-.nhinho {
+
+/* begin about section */
+/* begin about section */
+
+#about {
   position: relative;
-  width: 100%;
   text-align: center;
-  margin-top: -22px;
+  margin: -1.5% 11% 10%;
+  width: 78%;
 }
-.loinaoidauuuuu {
+#about_content {
+  width: 60%;
+  margin: auto;
+}
+
+#sidebar_lest {
+
+}
+
+.loinoidau_img {
+  width: 100%;
+}
+.loinaoidau_content {
   position:absolute;
   left: 50%;
-  top: 110px;
-  width: 35%;
+  top: 32%;
+  width: 46%;
+  height: 64%;
   transform: translateX(-50%)
 }
-#loinoidau  {
+.lndau_hd,
+#loinoidau {
   width: 100%;
   color: #cb1111;
   text-transform: uppercase;
-  text-align: left;
- }
-#loinoidau .lndau {
   display: block;
   text-align: center; 
-  font-size: 18px;
+  font-size: 15px;
+  font-weight: 550;
   font-family: Arial;
+  text-shadow: 1px 1px 2px rgb(221, 236, 8);
 }
-#loinoidau p {
-  margin-top: 8px ;
-  padding: 0 10px 0 15px;
-  height: 190px;
+#loinoidau {
+  height: 88%;
+  margin-top: 10px ;
+  overflow-y: scroll;
+  text-shadow:none;
+}
+#loinoidau .lndau_text {
+  padding-left: 15px;
   color: rgb(0, 0, 0);
   direction: ltr;
   display: block;
   overflow-y: scroll;
+  font-size: 14px;
+  font-weight: 350;
+  font-style: italic;
+  font-family: serif;
   text-overflow: ellipsis; 
   text-transform: none;
-  text-align:justify; 
-  font-style: italic;
-  font-size: 15px;}
+  text-align:justify;} 
+
+  /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: rgba(109, 112, 109, 0.014);
+
+  }
 
 
-/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* 
