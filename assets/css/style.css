@@ -1,7 +1,7 @@
 
-.mangrong {
-  height: 800px;
-}
+/* .mangrong {
+  height: 800px;} */
+
 * { margin: 0; padding: 0;
   box-sizing: border-box;
   -moz-box-sizing: border-box; 
@@ -9,11 +9,18 @@
   border-style: hidden; 
   border: 0px; border:none;
   outline: none;}
-
 .clear {clear: both; } 
 a {text-decoration: none;}
 html {scroll-behavior: smooth;}
-li {  list-style: none;}
+li {list-style: none;}
+::-webkit-scrollbar {
+  width: 5px;}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(109, 112, 109, 0.014);}
+/* thuộc tính chung */
+/* thuộc tính chung */
+/* thuộc tính chung */
+
 body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-repeat: repeat;
   background-size:contain;}
@@ -296,74 +303,112 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 /* begin about section */
 
 #about {
-  position: relative;
+  margin: -1.7% 11% 10%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
   text-align: center;
-  margin: -1.5% 11% 10%;
+  float: left;
   width: 78%;
+  z-index: -1;
 }
-#about_content {
-  width: 60%;
-  margin: auto;
-}
+
+/* begin sidebar_lest @@@@@@@@@@@  */
+/* begin sidebar_lest @@@@@@@@@@@  */
 
 #sidebar_lest {
+  width: 20%;
+  margin: 0 0.2%;
+}
 
+.sliderlest_nav {
+  width: 100%;
+  height: 103%;
+  background-image: url(../images/Nen_Saibar8_rong.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 1;
+}
+
+.sliderlest_navbar {
+  top:12%;
+  width: 100%;
+  
+}
+.lestnavbar_list {
+  background-image: url(../images/dm_bt.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-clip: border-box;
+  padding: 2%;
+  margin: 1% 5%;
+  width: 89%;
+}
+
+
+.lestnavbar_list a {
+font-size: 15px;
+}
+
+.sliderlest_catalog {
+  width: 10%;
+  background-color: #19191a;
+}
+
+/* End SidebarLest !!!!!!!!!! */
+
+#about_content {
+  position:relative;
+  width: 59%;
 }
 
 .loinoidau_img {
   width: 100%;
 }
-.loinaoidau_content {
-  position:absolute;
+.about_hd {
+  position: absolute;
+  top: 0;
   left: 50%;
-  top: 32%;
-  width: 46%;
-  height: 64%;
-  transform: translateX(-50%)
-}
-.lndau_hd,
-#loinoidau {
   width: 100%;
-  color: #cb1111;
-  text-transform: uppercase;
-  display: block;
-  text-align: center; 
-  font-size: 15px;
-  font-weight: 550;
+  padding-top: 16%;
+  color: red;
+  font-size: 13px;
   font-family: Arial;
-  text-shadow: 1px 1px 2px rgb(221, 236, 8);
+  text-transform: uppercase;
+  text-shadow: 1px 1px #2f09b9;
+  transform: translatex(-50%);
 }
-#loinoidau {
-  height: 88%;
-  margin-top: 10px ;
+
+.about_paragraph {
+  position: absolute;
+  top: 3%;
+  left: 50%;
+  width: 100%;
+  height: 90%;
+  padding: 18% 15%;
+  transform: translatex(-50%);
   overflow-y: scroll;
-  text-shadow:none;
 }
-#loinoidau .lndau_text {
-  padding-left: 15px;
-  color: rgb(0, 0, 0);
-  direction: ltr;
-  display: block;
-  overflow-y: scroll;
+.about_text {
   font-size: 14px;
-  font-weight: 350;
   font-style: italic;
   font-family: serif;
-  text-overflow: ellipsis; 
-  text-transform: none;
-  text-align:justify;} 
+  text-indent: 35px;
+  text-align: justify;
+}
 
-  /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+/* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 
-  ::-webkit-scrollbar {
-    width: 5px;
-  }
-  ::-webkit-scrollbar-thumb {
-    background-color: rgba(109, 112, 109, 0.014);
+#sidebar_right {
+  width: 20%;
+  margin: 0 0.2%;
+}
 
-  }
-
-
+main {
+  display: block;
+  z-index: -9999;
+}
 
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */

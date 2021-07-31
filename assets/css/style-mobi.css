@@ -4,7 +4,15 @@
   top: 35px;}
   .giapha-chuchay { font-size: 20px !important;}
   .langphong {font-size: 15px !important;}}
-  @media only screen and (max-width: 1050px) { 
+  @media only screen and (max-width: 1010px) { 
 
     .rungthongbao {display: none;}
+  }
+  @media only screen and (max-width: 860px) { 
+
+    .rungthongbao2 {display: none;}
+  }
+  @media only screen and (max-width: 710px) { 
+
+    .rungthongbao3, .rungthongbao4  {display: none;}
   }
