@@ -14,5 +14,9 @@
   }
   @media only screen and (max-width: 710px) { 
 
-    .rungthongbao3, .rungthongbao4  {display: none;}
-  }
+    .rungthongbao3 {display: none;}
+  } 
+  @media only screen and (max-width: 690px) { 
+
+    .rungthongbao4 {display: none;}
+  } 
