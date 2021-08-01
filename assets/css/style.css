@@ -14,7 +14,7 @@ a {text-decoration: none;}
 html {scroll-behavior: smooth;}
 li {list-style: none;}
 ::-webkit-scrollbar {
-  width: 5px;}
+  width: 0.5px;}
 ::-webkit-scrollbar-thumb {
   background-color: rgba(109, 112, 109, 0.014);}
 /* thuộc tính chung */
@@ -163,7 +163,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 /* Tạm okokok !!!!!!!!!!!!@@@@@@@@@ */
 
 #slider {
-  width: 80%;
+  width: 78%;
   margin: auto;
 }
 .slider_bgr {
@@ -171,7 +171,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   width: 100%;
 }
 .slider_bgr .topnews {
-  margin-top: -20px;
+  margin-top: -2%;
   width: 100%;
 }
 
@@ -302,7 +302,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 /* begin about section */
 
 #about {
-  margin: -1.7% 11% 10%;
+  margin: -1.8% 11% 10%;
   display: flex;
   flex-wrap: nowrap;
   justify-content: center;
@@ -322,21 +322,23 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 .sliderlest_nav {
   width: 100%;
-  height: 103%;
+  height: 75%;
+  padding: 1%;
   background-image: url(../images/Nen_Saibar8_rong.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  border-radius: 5px;
 
 }
 
 .sliderlest_navbar {
   top:12%;
   width: 100%;
-  
+  position: relative;
 }
 .lestnavbar_list {
   background-image: url(../images/dm_bt.png);
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   background-clip: border-box;
@@ -360,6 +362,7 @@ font-size: 15px;
 #about_content {
   position:relative;
   width: 59%;
+  margin-top: 0.2%;
 }
 
 .loinoidau_img {
@@ -381,16 +384,16 @@ font-size: 15px;
 
 .about_paragraph {
   position: absolute;
-  top: 3%;
+  top: 40%;
   left: 50%;
   width: 100%;
-  height: 90%;
-  padding: 18% 15%;
+  height: 50%;
+  padding: 0 14%;
   transform: translatex(-50%);
   overflow-y: scroll;
 }
 .about_text {
-  font-size: 14px;
+  font-size: 12px;
   font-style: italic;
   font-family: serif;
   text-indent: 35px;
