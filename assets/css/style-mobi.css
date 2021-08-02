@@ -12,11 +12,15 @@
 
     .rungthongbao2 {display: none;}
   }
-  @media only screen and (max-width: 710px) { 
+  @media only screen and (max-width: 740px) { 
     .rungthongbao3  {display: none;}
     #slider, #content, #about {
       width: 100%;
       margin: 0;
       margin-top: -2%;}
     .slider_bordervideo, .slider_text { top: 10%;}
+    .sidebar_lestnav, .sidebar_rightnav { height:83%;} 
+    .about_paragraph {
+      height:35%;
+    }
   }

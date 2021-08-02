@@ -323,7 +323,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   margin: 0.2% 0;
 }
 
-.sidebarlest_nav {
+.sidebar_lestnav {
   width: 100%;
   height: 87%;
   overflow:scroll;
@@ -332,15 +332,12 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-size: contain;
   border-radius: 10px;
 }
-.sidebarlest_navbar,
+.sidebar_lestnavbar,
 .sidebar_rightnavbar {
   top:10%;
   position: relative;
 }
-/* .sidebarlest_navbar, */
-.sidebar_rightnavbar:last-child {
-  margin-bottom: 2%;
-}
+
 .navbarright_list,
 .lestnavbar_list {
   width: 95%;
