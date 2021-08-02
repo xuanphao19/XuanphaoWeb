@@ -20,7 +20,9 @@ li {list-style: none;}
   background-color: rgba(109, 112, 109, 0.014);}
 /* end thuộc tính chung */
 /* end thuộc tính chung */
-
+main {
+  display: block;
+}
 body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-repeat: repeat;
   background-size:contain;}
@@ -288,15 +290,16 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   border-right: 2px solid #cb1111;
 }
 .slidertext_content li a { 
+  display: block;
+  font-size: 14px;
   color: #19191a;
-  font-size: 13px;
+  line-height: 1.4;
   font-style: italic;
   font-family: serif;
-  line-height: 1.4;
-  font-weight: bold;
-  display: block;
+  font-weight: 600;
 }
-.slidertext_content li a:hover { 
+.slidertext_content li:hover a { 
+  color: red;
   text-decoration: underline;
 }
 
@@ -324,55 +327,45 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   width: 18%;
   margin: 0.2% 0;
 }
-
 .sidebar_lestnav {
-  width: 100%;
-  height: 87%;
+  height: 80%;
   overflow:scroll;
   background-image: url(../images/Nen_Saibar8_rong.jpg);
   background-repeat: no-repeat;
   background-size: contain;
   border-radius: 10px;
 }
-.sidebar_lestnavbar,
-.sidebar_rightnavbar {
+.sidebar_lestnavbar {
   top:12%;
-  display: block;
+  margin: 3%;
   position: relative;
+  background: linear-gradient(#dbb574 0%, #ca8c53 100%);
 }
-
-.rightnavbar_list,
-.lestnavbar_list {
-  width: 97%;
-  margin: 1% auto 0;
-  border-radius: 10px;
-
+.lestnavbar_list a {
+  background-image: url(../images/dm_bt.png);
 }
 .lestnavbar_list a,
 .rightnavbar_list a {
-  width: 100%;
   display: block;
+  margin: 1% auto 0;
   padding: 4% 0;
-  font-size: 11px;
   color: #19191a;
-  font-weight: bold;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 1px;
   text-align: center;
+  font-family: Arial, sans-serif;
   text-transform: uppercase;
   background-size: contain;
   background-position: center;
   background-clip: border-box;
   background-repeat: no-repeat;
-  background-image: url(../images/dm_bt.png);
-
 }
-
-
 .rightnavbar_list a:hover,
 .lestnavbar_list a:hover {
   color: #ff0000;
   background-image: url(../images/dm_hoverr.png);
 }
-
 .sidebarlest_catalog {
   width: 10%;
   background-color: #ca391fd2;
@@ -382,8 +375,8 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 #about_content {
   position:relative;
-  width: 63.5%;
   margin-top: 0.2%;
+  width: 63.5%;
 }
 
 .loinoidau_img {
@@ -405,7 +398,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 .about_paragraph {
   position: absolute;
-  top: 40%;
+  top: 38%;
   left: 50%;
   width: 100%;
   height: 45%;
@@ -414,7 +407,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   overflow-y: scroll;
 }
 .about_text {
-  font-size: 12px;
+  font-size: 13px;
   font-style: italic;
   font-family: serif;
   text-indent: 35px;
@@ -429,38 +422,36 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 }
 
 .sidebar_rightnav {
-  width: 100%;
-  height: 87%;
+  height: 64%;
   overflow:scroll;
-  background-image: url(../images/Nen_Saibar8_right.jpg);
-  background-repeat: no-repeat;
-  background-size: contain;
   border-radius: 10px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-clip: content-box;
+  background-image: url(../images/Nen_Saibar8_right_tintuc.jpg);
 }
 
-.sidebar_rightnavbar {
 
+.sidebar_rightnavbar {
+  top: 16%;
+  margin: 4%;
+  padding-bottom: 2%;
+  background: linear-gradient(#dbb574 0%, #ca8c53 100%);
+  position: relative;
 }
 .rightnavbar_list {
 
 }
-
-main {
-  display: block;
-
+.rightnavbar_list a {
+  background-image: url(../images/wlbg_nenvideo_ao.png);
+  color: yellow;
 }
+
 
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 
 /* 
-li a.active, #menu li a:hover {
-  background: url(../img/menu/dm_hover.png) scroll no-repeat center center;
-  text-decoration: none;
-  color: red;
-} */
-
-
 
 /* 
  marquee {   
