@@ -21,8 +21,8 @@ li {list-style: none;}
 /* end thuộc tính chung */
 /* end thuộc tính chung */
 main {
-  display: block;
-}
+  display: block;}
+
 body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-repeat: repeat;
   background-size:contain;}
@@ -167,7 +167,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 /* Tạm okokok !!!!!!!!!!!!@@@@@@@@@ */
 
 #slider {
-  width: 78%;
+  width: 80%;
   margin: auto;
 }
 .slider_bgr {
