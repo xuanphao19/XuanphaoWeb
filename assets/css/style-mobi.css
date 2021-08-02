@@ -13,10 +13,10 @@
     .rungthongbao2 {display: none;}
   }
   @media only screen and (max-width: 710px) { 
-
-    .rungthongbao3 {display: none;}
-  } 
-  @media only screen and (max-width: 690px) { 
-
-    .rungthongbao4 {display: none;}
-  } 
+    .rungthongbao3  {display: none;}
+    #slider, #content, #about {
+      width: 100%;
+      margin: 0;
+      margin-top: -2%;}
+    .slider_bordervideo, .slider_text { top: 10%;}
+  }
