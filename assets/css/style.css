@@ -336,34 +336,41 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 }
 .sidebar_lestnavbar,
 .sidebar_rightnavbar {
-  top:10%;
+  top:12%;
+  display: block;
   position: relative;
 }
 
-.navbarright_list,
+.rightnavbar_list,
 .lestnavbar_list {
-  width: 95%;
-  margin: auto;
+  width: 97%;
+  margin: 1% auto 0;
   border-radius: 10px;
+
+}
+.lestnavbar_list a,
+.rightnavbar_list a {
+  width: 100%;
+  display: block;
+  padding: 4% 0;
+  font-size: 11px;
+  color: #19191a;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
   background-size: contain;
   background-position: center;
   background-clip: border-box;
   background-repeat: no-repeat;
   background-image: url(../images/dm_bt.png);
-}
-.lestnavbar_list a,
-.navbarright_list a {
-  width: 100%;
-  display: block;
-  padding: 4.2% 0;
-  font-size: 14px;
-  text-align: center;
-  text-decoration: none;
+
 }
 
 
-li .lestnavbar_list li:hover {
-  background-color: rgba(233 16 16 / 40%);
+.rightnavbar_list a:hover,
+.lestnavbar_list a:hover {
+  color: #ff0000;
+  background-image: url(../images/dm_hoverr.png);
 }
 
 .sidebarlest_catalog {
@@ -434,7 +441,7 @@ li .lestnavbar_list li:hover {
 .sidebar_rightnavbar {
 
 }
-.navbarright_list {
+.rightnavbar_list {
 
 }
 
@@ -445,6 +452,16 @@ main {
 
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
 /* end !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+/* 
+li a.active, #menu li a:hover {
+  background: url(../img/menu/dm_hover.png) scroll no-repeat center center;
+  text-decoration: none;
+  color: red;
+} */
+
+
+
 /* 
  marquee {   
   position: fixed; 

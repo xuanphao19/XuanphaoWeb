@@ -14,11 +14,18 @@
   }
 @media only screen and (max-width: 740px) { 
   .rungthongbao3  {display: none;}
+  .rungthongbao2 {display: block;}
   #slider, #content, #about {
     width: 100%;
     margin: 0;
     margin-top: -2%;}
-  .slider_bordervideo, .slider_text { top: 10%;}
+  .slider_bordervideo, .slider_text { top: 9%; padding:0;}
+  .slidertext_content li a { font-size: 9px}
+  .rightnavbar_list, .lestnavbar_list {width: 80%;}
   .sidebar_lestnav, .sidebar_rightnav { height:83%;} 
   .about_paragraph {height:35%;}
+  .lestnavbar_list a, .rightnavbar_list a { font-size: 10px }
+  }
+  @media only screen and (max-width: 570px) { 
+    .rungthongbao4 {display: none;}
   }
