@@ -311,7 +311,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   margin: -1.8% 10% 0%;
   display: flex;
   flex-wrap: nowrap;
-  justify-content: space-between;
+  justify-content: space-around;
   /* text-align: center;
   float: left; */
 
@@ -328,28 +328,28 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   margin: 0.2% 0;
 }
 .sidebar_lestnav {
-  height: 80%;
+  height: 81%;
   overflow:scroll;
-  background-image: url(../images/Nen_Saibar8_rong.jpg);
-  background-repeat: no-repeat;
-  background-size: contain;
   border-radius: 10px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url(../images/Nen_Saibar8_rong.jpg);
 }
 .sidebar_lestnavbar {
   top:12%;
-  margin: 3%;
+  margin: 5%;
   position: relative;
   background: linear-gradient(#dbb574 0%, #ca8c53 100%);
 }
 .lestnavbar_list a {
+  padding: 4% 0;
+  color: #19191a;
   background-image: url(../images/dm_bt.png);
 }
 .lestnavbar_list a,
 .rightnavbar_list a {
   display: block;
   margin: 1% auto 0;
-  padding: 4% 0;
-  color: #19191a;
   font-size: 10px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -376,7 +376,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 #about_content {
   position:relative;
   margin-top: 0.2%;
-  width: 63.5%;
+  width: 63%;
 }
 
 .loinoidau_img {
@@ -422,7 +422,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 }
 
 .sidebar_rightnav {
-  height: 64%;
+  height: 68%;
   overflow:scroll;
   border-radius: 10px;
   background-size: contain;
@@ -434,7 +434,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 .sidebar_rightnavbar {
   top: 16%;
-  margin: 4%;
+  margin: 5%;
   padding-bottom: 2%;
   background: linear-gradient(#dbb574 0%, #ca8c53 100%);
   position: relative;
@@ -443,8 +443,9 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 }
 .rightnavbar_list a {
-  background-image: url(../images/wlbg_nenvideo_ao.png);
+  padding: 4% 0;
   color: yellow;
+  background-image: url(../images/wlbg_nenvideo_ao.png);
 }
 
 
