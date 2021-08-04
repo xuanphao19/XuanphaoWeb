@@ -1,38 +1,44 @@
-@media only screen and (max-width: 770px) { 
-  .text-chaohoi marquee {   
-  position: fixed; 
-  top: 35px;}
-  .giapha-chuchay { font-size: 20px !important;}
-  .langphong {font-size: 15px !important;}}
 
 @media only screen and (max-width: 1010px) { 
-  .rungthongbao {display: none;}
-  .image_bia img{border-radius: 5px;
-  box-shadow: 0px 10px 10px rgba(27, 27, 26, 0.9);}
-  }
+  .dpl_v1 {
+    display: none !important;}
+
+
+
+
+
+
+}
 
 
 @media only screen and (max-width: 860px) { 
-  .rungthongbao3 {display: none;}
+  .dpl_v2 {
+    display: none !important;}
+
+
+
+
+
 }
 
-@media only screen and (max-width: 740px) { 
-  .rungthongbaotext {display: none;}
-  #slider, #content, #about {
-    width: 100%;
-    margin: 0;
-    margin-top: -2%;}
-  .slider_bordervideo { top: 10%;
-    left: 22%; padding:0;}
-  .slider_text {padding:0;}
-  .slidertext_content li a { font-size: 9px}
-  .slidertext_content{
-    top: 12%;
-    right: 20%;}
+
+
+@media only screen and (max-width: 770px) { 
+  .dpl_v3 {
+    display: none !important;}
+
+
+
 }
+
+
+
+
 @media only screen and (max-width: 580px) { 
-  .rungthongbao4, .rungthongbao5 {display: none;}
-  .rungthongbaotext {display: none !important;}
-  #about_content {width: 56%;} 
-  .slidertext_content li { width: 28%;}
+  .dpl_v4, .dpl_v5 {
+    display: none !important;}
+
+
+
+
   }

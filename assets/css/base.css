@@ -1,0 +1,33 @@
+.mangrong {
+  height: 800px;
+z-index: -22;} 
+
+  * { margin: 0; padding: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    border-style: hidden; 
+    border: 0px; border:none;
+    outline: none;}
+  .clear {clear: both; } 
+  a {text-decoration: none;}
+  html {scroll-behavior: smooth;}
+  li {list-style: none;}
+  .box {
+    width: 100%;
+    border-radius: 5px;
+  }
+  /* hidden scrollbar  */
+  ::-webkit-scrollbar {
+    width: 0.1px;}
+  ::-webkit-scrollbar-thumb {
+      background-color: rgba(109, 112, 109, 0.014);}
+main {
+        width: 100%;
+        display: block;}
+.ovh {
+          overflow: hidden !important;}
+.dpl_v0 {
+            display: none !important;}
+/* end thuộc tính chung */
+/* end thuộc tính chung */

@@ -1,36 +1,4 @@
 
-/* .mangrong {
-  height: 800px;} */
-
-* { margin: 0; padding: 0;
-  box-sizing: border-box;
-  -moz-box-sizing: border-box; 
-  -webkit-box-sizing: border-box; 
-  border-style: hidden; 
-  border: 0px; border:none;
-  outline: none;}
-.clear {clear: both; } 
-a {text-decoration: none;}
-html {scroll-behavior: smooth;}
-li {list-style: none;}
-.box {
-  width: 100%;
-  border-radius: 5px;
-}
-.ovh {
-  overflow: hidden!important;
-}
-/* hidden scrollbar  */
-::-webkit-scrollbar {
-  width: 0.1px;}
-::-webkit-scrollbar-thumb {
-  background-color: rgba(109, 112, 109, 0.014);}
-/* end thuộc tính chung */
-/* end thuộc tính chung */
-main {
-  width: 100%;
-  display: block;}
-
 body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-repeat: repeat;
   background-size:contain;}
@@ -78,7 +46,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   border-radius: 10px;
   box-shadow: 0px 0px 20px rgba(245, 245, 8, 0.8); 
 }
-.header_nav {
+#header_nav {
   position: relative;
   width: 100%;
   height: 52px;
@@ -97,14 +65,12 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-repeat: no-repeat;
   background-size:cover;
 }
-.header_nav .nav {
+#header_nav .nav {
   width: 100%;
-   /* display: none; */
 }
 .nav_list {
   margin-left: 6%;
 }
-
 .nav_list > li {
   float: left;
   min-width: 100px;
@@ -176,6 +142,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 #slider {
   width: 80%;
+  height: 32vw;
   margin: auto;
 }
 .slider_bgr {
@@ -183,15 +150,16 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   width: 100%;
 }
 .slider_bgr .topnews {
-  margin-top: -2%;
+  margin-top: -2.5%;
   width: 100%;
+  height: 32vw;
 }
 
 .slider_bordervideo {
   position: absolute;
-  top: 4%;
-  left: 17%;
-  width: 39%;
+  top: 5%;
+  left: 16%;
+  width: 50%;
 }
 .bordervideo_img {
   top: 0;
@@ -206,11 +174,12 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   box-shadow: rgb(233 16 16 / 40%) 0px 0px 5px;
   padding-top: 57%;
   border-radius: 5px;
-  background-image: url(../images/dangnhang.png);
-  background-origin: border-box;
   background-size: cover; 
-  background-attachment: scroll;
   background-repeat: no-repeat;
+  /* background-attachment: scroll; */
+  background-origin: border-box;
+  background-position: bottom center;
+  background-image: url(../images/dangnhang.png);
   -webkit-animation: slides 88000ms infinite; 
   -moz-animation: slides 88000ms infinite; 
   -o-animation: slides 88000ms infinite;
@@ -272,10 +241,10 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 
 .slider_text {
   position: absolute;
-  top: 6%;
-  right: 6%;
-  width: 33%;
-  height: 80%;
+  top: 10%;
+  right: 5%;
+  width: 24%;
+  height: 24vw;
   overflow-y: scroll;
 }
 .slidertext_content {
@@ -289,7 +258,6 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   display: inline-block;
   vertical-align: top;
   padding: 1% 6%;
-  float: right;
   text-align: left;
   border-left: 2px solid #cb1111;
   width: 19%;
@@ -301,7 +269,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   display: block;
   font-size: 14px;
   color: #19191a;
-  line-height: 1.4;
+  line-height: 1.7;
   font-style: italic;
   font-family: serif;
   font-weight: 600;
@@ -317,7 +285,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 #about {
   width: 80%;
   height: 30vw;
-  margin: -1.8% 10% 0%;
+  margin: -3.7% 10% 0%;
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-around;
@@ -334,9 +302,10 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   height: 100%;
   margin: 0.2% 0;
 }
-
+.sidebar_member,
 .sidebar_lesthd,
-.sidebar_righthd {
+.sidebar_righthd,
+.sidebar_contacthd {
   display: block;
   font-size: 0.6em;
   padding: 1em 0 0.5em;
@@ -346,29 +315,49 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
   background-repeat: no-repeat;
   background-clip: padding-box;
 }
-.sidebar_lesthd {
+
+.sidebar_lesthd,
+.sidebar_contacthd {
   background-image: url(../images/image_navbar_lest.png);
 }
+.sidebar_member,
 .sidebar_righthd {
   background-image: url(../images/image_navbar_right.png);
 }
 .sidebar_lestnav,
-.sidebar_rightnav {
+.sidebar_rightnav,
+.sidebar_contact,
+.sidebar_member
+ {
   border-bottom-left-radius: 0.2em;
   border-bottom-right-radius: 0.2em;
 } 
-.sidebar_lestnav  {
-  height: 90%;
+.sidebar_lestnav {
+  height: 64%;
 }
 .sidebar_rightnav {
-  height: 50%;
+  height: 46%;
 }
-
+.sidebar_contact {
+  height: 26%;
+  margin-top: 0.1em;
+}
+.sidebar_contacttext {
+height: 66%;
+}
+.sidebar_contacttext p {
+  display:block;
+padding: 0.2em;
+color: rgb(255, 0, 0);
+font-size: 0.6em;
+font-family: Arial, Helvetica, sans-serif;
+}
 .sidebar_lestnavbar, 
-.sidebar_rightnavbar {
+.sidebar_rightnavbar,
+.sidebar_contacttext {
   text-align: center;
   overflow-y: scroll !important;
-  padding: 0.3em 0.2em 0.7em 0.2em;
+  padding: 0.3em 0.2em;
   border: 0.25em solid transparent;
   background: linear-gradient(#dbb574 0%, #ca8c53 100%);
   border-image: linear-gradient(to top, #6E3118 0%, #b77d42 50%);
@@ -377,22 +366,25 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 }
 .sidebar_lestnavbar {
   height: 100%;
+
 }
 .sidebar_rightnavbar {
-  height: 83%;
+  height: 100%;
 }
+
 .lestnavbar_list a, 
 .rightnavbar_list a {
   display:block;
   margin: 0.25em 0;
-  padding: 0.3em;
-  font-size: 0.7em;
+  padding: 0.3em 0 0.3em 1em;
+  font-size: 0.6em;
   font-family: Arial, Helvetica, sans-serif;
   background-position: center;
   background-repeat: no-repeat;
   background-clip: padding-box;
   background-size: 100% 100%;
 }
+
 .lestnavbar_list a {
   background-image: url(../images/dm_bt.png);
   color: #19191a;
@@ -400,7 +392,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
 .rightnavbar_list a {
   background-image: url(../images/wlbg_nenvideo_ao.png);
   color: #fff;
-  padding-left: 1.5em;
+  padding-left: 2em;
   text-align: left;
 }
 
@@ -409,10 +401,7 @@ body {background-image: url(../images/Nen_Rong_Cuon.png);
  color: #ff0000;
   background-image: url(../images/dm_hoverr.png);
  }
- .sidebarlest_catalog {
-  /* width: 10%; */
-  /* background-color: #ca391fd2; */
-} 
+
 
 /* End Sidebar !!!!!!!!!! */
 .about_top {
